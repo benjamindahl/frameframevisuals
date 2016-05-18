@@ -1,0 +1,72 @@
+<keyboardmap iotype="midi">
+    <!--
+	a manually written midi map.
+	square entries will be interpreted as potis,
+	entries more than 1:10 ratio as sliders
+	and the rest as claviatures or buttons.
+	black claviatures will be lifted somewhat.
+	-->
+    <face x1="120" x2="160" y1="377" y2="417" keyA="0" keyB="13" comment="midi rotator" />
+    <face x1="120" x2="160" y1="312" y2="352" keyA="0" keyB="12" comment="midi rotator" />
+    <face x1="120" x2="160" y1="247" y2="287" keyA="0" keyB="10" comment="midi rotator" />
+    <face x1="190" x2="230" y1="377" y2="417" keyA="1" keyB="13" comment="midi rotator" />
+    <face x1="190" x2="230" y1="312" y2="352" keyA="1" keyB="12" comment="midi rotator" />
+    <face x1="190" x2="230" y1="247" y2="287" keyA="1" keyB="10" comment="midi rotator" />
+    <face x1="260" x2="300" y1="377" y2="417" keyA="2" keyB="13" comment="midi rotator" />
+    <face x1="260" x2="300" y1="312" y2="352" keyA="2" keyB="12" comment="midi rotator" />
+    <face x1="260" x2="300" y1="247" y2="287" keyA="2" keyB="10" comment="midi rotator" />
+    <face x1="330" x2="370" y1="377" y2="417" keyA="3" keyB="13" comment="midi rotator" />
+    <face x1="330" x2="370" y1="312" y2="352" keyA="3" keyB="12" comment="midi rotator" />
+    <face x1="330" x2="370" y1="247" y2="287" keyA="3" keyB="10" comment="midi rotator" />
+    <face x1="400" x2="440" y1="377" y2="417" keyA="4" keyB="13" comment="midi rotator" />
+    <face x1="400" x2="440" y1="312" y2="352" keyA="4" keyB="12" comment="midi rotator" />
+    <face x1="400" x2="440" y1="247" y2="287" keyA="4" keyB="10" comment="midi rotator" />
+    <face x1="470" x2="510" y1="377" y2="417" keyA="5" keyB="13" comment="midi rotator" />
+    <face x1="470" x2="510" y1="312" y2="352" keyA="5" keyB="12" comment="midi rotator" />
+    <face x1="470" x2="510" y1="247" y2="287" keyA="5" keyB="10" comment="midi rotator" />
+    <face x1="540" x2="580" y1="377" y2="417" keyA="6" keyB="13" comment="midi rotator" />
+    <face x1="540" x2="580" y1="312" y2="352" keyA="6" keyB="12" comment="midi rotator" />
+    <face x1="540" x2="580" y1="247" y2="287" keyA="6" keyB="10" comment="midi rotator" />
+    <face x1="610" x2="650" y1="377" y2="417" keyA="7" keyB="13" comment="midi rotator" />
+    <face x1="610" x2="650" y1="312" y2="352" keyA="7" keyB="12" comment="midi rotator" />
+    <face x1="610" x2="650" y1="247" y2="287" keyA="7" keyB="10" comment="midi rotator" />
+    <!---->
+    <face x1="130" x2="150" y1="26" y2="227" keyA="0" keyB="7" comment="midi slider" />
+    <face x1="200" x2="220" y1="26" y2="227" keyA="1" keyB="7" comment="midi slider" />
+    <face x1="270" x2="290" y1="26" y2="227" keyA="2" keyB="7" comment="midi slider" />
+    <face x1="340" x2="360" y1="26" y2="227" keyA="3" keyB="7" comment="midi slider" />
+    <face x1="410" x2="430" y1="26" y2="227" keyA="4" keyB="7" comment="midi slider" />
+    <face x1="480" x2="500" y1="26" y2="227" keyA="5" keyB="7" comment="midi slider" />
+    <face x1="550" x2="570" y1="26" y2="227" keyA="6" keyB="7" comment="midi slider" />
+    <face x1="620" x2="640" y1="26" y2="227" keyA="7" keyB="7" comment="midi slider" />
+    <face x1="690" x2="710" y1="26" y2="227" keyA="0" keyB="28" comment="midi slider" />
+    <!---->
+    <face x1="770" x2="800" y1="312" y2="332" keyA="" keyB="" comment="midi button" />
+    <face x1="770" x2="800" y1="267" y2="287" keyA="" keyB="" comment="midi button" />
+    <face x1="770" x2="800" y1="227" y2="247" keyA="" keyB="" comment="midi button" />
+    <face x1="810" x2="840" y1="312" y2="332" keyA="" keyB="" comment="midi button" />
+    <face x1="810" x2="840" y1="267" y2="287" keyA="" keyB="" comment="midi button" />
+    <face x1="810" x2="840" y1="227" y2="247" keyA="" keyB="" comment="midi button" />
+    <face x1="850" x2="880" y1="312" y2="332" keyA="" keyB="" comment="midi button" />
+    <face x1="850" x2="880" y1="267" y2="287" keyA="" keyB="" comment="midi button" />
+    <face x1="850" x2="880" y1="227" y2="247" keyA="" keyB="" comment="midi button" />
+    <face x1="890" x2="920" y1="312" y2="332" keyA="" keyB="" comment="midi button" />
+    <face x1="890" x2="920" y1="267" y2="287" keyA="" keyB="" comment="midi button" />
+    <face x1="890" x2="920" y1="227" y2="247" keyA="" keyB="" comment="midi button" />
+    <face x1="790" x2="820" y1="177" y2="197" keyA="0" keyB="19" comment="midi button" />
+    <face x1="790" x2="820" y1="145" y2="165" keyA="0" keyB="22" comment="midi button" />
+    <face x1="790" x2="820" y1="113" y2="133" keyA="0" keyB="25" comment="midi button" />
+    <face x1="790" x2="820" y1="81" y2="101" keyA="" keyB="" comment="midi button" />
+    <face x1="830" x2="860" y1="177" y2="197" keyA="0" keyB="20" comment="midi button" />
+    <face x1="830" x2="860" y1="145" y2="165" keyA="0" keyB="23" comment="midi button" />
+    <face x1="830" x2="860" y1="113" y2="133" keyA="0" keyB="26" comment="midi button" />
+    <face x1="830" x2="860" y1="81" y2="101" keyA="0" keyB="18" comment="midi button" />
+    <face x1="870" x2="900" y1="177" y2="197" keyA="0" keyB="21" comment="midi button" />
+    <face x1="870" x2="900" y1="145" y2="165" keyA="0" keyB="24" comment="midi button" />
+    <face x1="870" x2="900" y1="113" y2="133" keyA="0" keyB="27" comment="midi button" />
+    <face x1="870" x2="900" y1="81" y2="101" keyA="" keyB="" comment="midi button" />
+    <face x1="770" x2="800" y1="37" y2="57" keyA="0" keyB="14" comment="midi button" />
+    <face x1="810" x2="840" y1="37" y2="57" keyA="0" keyB="15" comment="midi button" />
+    <face x1="850" x2="880" y1="37" y2="57" keyA="0" keyB="16" comment="midi button" />
+    <face x1="890" x2="920" y1="37" y2="57" keyA="0" keyB="17" comment="midi button" />
+</keyboardmap>

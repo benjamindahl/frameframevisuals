@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="unknown-47" standalone="no" ?>
+<MXwendlerConfiguration20>
+    <Configuration0>
+        <stability verbose="1" show_message_during_startup="0" lasterrcount="0" allerrcount="0" lasterror="noerror" runcount="28" executable="/Applications/MXW Beta 4.0.26/MXWendler 4.0.26.app/Contents/MacOS/MXWendler 4.0.26" directory="/Applications/MXW Beta 4.0.26/MXWendler 4.0.26.app/Contents/MacOS/" crashmail="1" watchdog="0" />
+        <windows>
+            <misc showsplash="1" track_count="3" crossfadeonstart="1" track_default_fadein="2000" layer_default_layerpos="0,0,1024,768/XGA 1&#x0A;1024,0,1024,768/XGA 2&#x0A;2048,0,1024,768/XGA 3" text_ctrl_layer_blitmode="Picture In Picture" repeatmode="0" scalemode="0" raiseoutwin="0" file_to_load="" default_start_io_command="" tooltips="1" defaulttarget="---" fadersensivity="50" defaultclip="footage/WalkingMan_Outline_Loop_.avi" defaultshowfile="" layer_affect_preload="1" layer_affect_preload_no_opacity="1" layer_blitmode="Picture In Picture" layer_default_fadein="1000">
+                <playlistgrid cols="3" rows="20" max_fade_time="100000" max_fade_time_step="250" />
+                <preload rows="5" cols="4" />
+                <editor last_active_tab="0" />
+            </misc>
+            <out removedecoration="1" showoutwincursor="1" sizeX="1280" sizeY="650" showoutwin="1" posY="40" posX="0" />
+            <defaultset type="1" defaultsetpath="" />
+            <vioso open_on_start="0" spl_filename="" />
+            <main rememberorspecify="1" sizeY="650" sizeX="1024" posY="100" posX="100" lastposX="100" lastposY="42" lastsizeX="1024" lastsizeY="672" lock_window="0" />
+            <fxserver numwin="1" stretch="0" resolution="1" performance="1" />
+            <sdi open_on_start="0" safe_area="0" dataformat="0" signal_format="0" sync_source="0" sync_type="0" />
+        </windows>
+        <filesaving>
+            <lastfile mru_showfile0="" mru_showfile1="" mru_showfile2="" mru_showfile3="" mru_showfile4="" mru_showfile5="" mru_showfile6="" mru_showfile7="" mru_showfile8="">
+                <set lastfilename="GCC1.mxs" lastdirname="/Volumes/Users/Benny/Data/Works/Projekte/VJ/Amaze/" />
+                <preload lastfilename="" lastdirname="" />
+                <preloadbank lastfilename="" lastdirname="" />
+                <keystone2 lastfilename="" lastdirname="" />
+                <keystone2bitmap lastfilename="" lastdirname="" />
+                <playlist lastfilename="" lastdirname="" />
+                <settings_dmxmappings lastfilename="" lastdirname="" />
+                <settings_midimappings lastfilename="EvX17.midimappings" lastdirname="/Volumes/Users/Shared/Wendler/Settings/" />
+                <settings_keyboardmappings lastfilename="" lastdirname="" />
+            </lastfile>
+        </filesaving>
+        <performance outputres="4" framerate="18" vsync="0" liveupdate="18">
+            <engine texture_min_mode="1" texture_mag_mode="1" />
+        </performance>
+        <media>
+            <jitter_bridges open="0" />
+            <live open="1" ignoreunknown="1" max_frame_queue="5" show_settings_dialog="0">
+                <usb_video_class_video opening_state="unknown" size_w="320" size_h="240" fps="25" />
+            </live>
+            <virtual open="1" pure_internal="1" />
+            <avi open="1" loadbehaviour="2" prefer_external="1" />
+            <quicktime open="1" prefer_external="1" />
+            <swf open="1" handler="0" ASlimit="10" />
+            <imagesequences open="1" shrink="0" maxedge="1024" />
+            <images open="1" shrink="0" maxedge="1024" glcompress="0" />
+            <ffmpeg preloaded_decoders="0" />
+            <mediafilesettings>
+                <_volumes_users_benny_data_projekte_vj_stoelzl filename="/Volumes/Users/Benny/Data/Projekte/VJ/Stoelzl" internal_externalcodec="read_as_pic" />
+            </mediafilesettings>
+        </media>
+        <filecache usecache="2" abspath="/Applications/MXW Beta 4.0.26/cache/" relpath="cache" />
+        <audiomanager>
+            <out open_audio="1" samplerate="44100" latency="0.02322" device="0" />
+            <in device="0" />
+            <clips use_cascading_fade="1" silent_if_no_layer="1" />
+        </audiomanager>
+        <generators openaudioanalyzer="1" dampvalue="0.5" audiocontrols="16" showtimeloop="1" beatdetectiontype="0" />
+        <osc receive="0" sendingreply="0" send="0" dump_received="0" ignore_old_ED="0">
+            <sending filter_out="" address="10.0.0.2" port="7001" />
+            <broadcast timesync="0" address="192.168.0.255" />
+            <receiving port="7000" />
+            <sendingreply address="10.0.0.2" port="7002" />
+            <rs232 receive_osc_rs232="0" comport_number="1" translate_int="0" />
+        </osc>
+        <licenser>
+            <features Eventdriver-Packet="8Txp2glpb3tmyjbAwQpBPjO07AyMGxnrPWR1ySlAsgmDZSxX6jfXLi+nMELchWei" Output-1-SXGA="notavailable" Entropy-Packet="notavailable" Output-2-SXGA="zx6GGBXDN2wHkK1oy3mkR5+fMHO6RkMXVgoqRfUMr1Y=" Output-Unlimited="notavailable" Virtual-Cam-Larger-320="vm+4S9YUTp1llP5LWHJxsfh9rz8n+NEkip5BW7yM7WxDFTVhcklF3FFe5NJFwMdC" Output-SDI="notavailable" Max-20-Layers="GKPAOaCcgple7MYNeAbOSeduqirSkKsjhDhy0e6jbnw=" Max-10-Layers="notavailable" One-Playlist="1MRGtNRx4+QSTVCg0UzVjEfyxwfJ0UKkc9eUFDkxj0w=" Keystone-2="IEIQ35pjk1Vv79K+LHxC7bbIbiCgArpEl3K31+krJv4=" Keystone-Cubic="notavailable" Keystone-Linear="notavailable" DMX_Support="9BQnMQQobeHNg2vIiuLl2IeWWvaBpoZnJsQ9WkrXh8Y=" Asio-Multichannel="nEWcYInC13oaD/4MCHVD8TzCJg8iNugx8AosoW6UkbonVhMKftgXgxRCEuo00N9B" />
+        </licenser>
+        <dmxmappings currentconfig="0">
+            <config0 />
+        </dmxmappings>
+        <io>
+            <dmx preferSOUNDLIGHT="0" preferDEDMX="0" connectonstart="0" dmx_merge_mode="0" interpret_dmx_as_percent="0">
+                <artnet open_artnet="0" networkinterface="2.0.0.2" shortname="MXWendler1" longname="MXWendler Mediaserver Number One ( The one behind the stage at the left side )" port="0" subnet="0" />
+                <ecue startRENDER2BUTLER="0" patchelorfile="" />
+            </dmx>
+            <midi translate_note_on_off="0" send_to_motorfader="0">
+                <devices>
+                    <active_midi_devices string_array_count="0" />
+                </devices>
+            </midi>
+            <dialogsettings lastopen="0" lastselected="0" />
+            <wii open_wii="0" />
+            <optimus open_optimus="0" optimus_destination="0" />
+        </io>
+        <midimappings currentconfig="0">
+            <config0>
+                <iomapline keyA="0" keyB="0" receiver="/mxw/trackmanager" delta="0" time="0" type="1" />
+                <iomapline keyA="0" keyB="1" receiver="/mxw/track/1" delta="0" time="0" type="1" />
+                <iomapline keyA="0" keyB="11" receiver="/mxw/track/1/layer/3/opacity" delta="0" time="0" type="1" />
+                <iomapline keyA="0" keyB="12" receiver="/mxw/track/1/layer/2/opacity" delta="0" time="0" type="1" />
+                <iomapline keyA="0" keyB="2" receiver="/mxw/track/2" delta="0" time="0" type="1" />
+                <iomapline keyA="0" keyB="21" receiver="/mxw/track/2/layer/3/opacity" delta="0" time="0" type="1" />
+                <iomapline keyA="0" keyB="22" receiver="/mxw/track/2/layer/2/opacity" delta="0" time="0" type="1" />
+                <iomapline keyA="0" keyB="3" receiver="/mxw/track/3" delta="0" time="0" type="1" />
+                <iomapline keyA="0" keyB="31" receiver="/mxw/track/3/layer/3/opacity" delta="0" time="0" type="1" />
+                <iomapline keyA="0" keyB="32" receiver="/mxw/track/3/layer/2/opacity" delta="0" time="0" type="1" />
+                <iomapline keyA="15" keyB="0" receiver="/mxw/render/scale" delta="0" time="0" type="1" />
+                <iomapline keyA="15" keyB="1" receiver="/mxw/render/rotation" delta="0" time="0" type="1" />
+                <iomapline keyA="15" keyB="2" receiver="/mxw/render/effect/1/param/1" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/preload/1/trigger" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/preload/2/trigger" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/preload/3/trigger" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/preload/4/trigger" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/preload/5/trigger" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/preload/6/trigger" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/preload/7/trigger" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/preload/8/trigger" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/preload/9/trigger" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/preload/10/trigger" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/playlist/pause" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/playlist/play" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/playlist/gotoprev" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/playlist/gotonext" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/layermanager" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/reset" delta="0" time="0" type="3" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/rotation" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/scalexy" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/aspectratio" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/translationy" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/scale" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/set" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/mode" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/translationx" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/opacity" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/clip/position" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/clip/speed" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/clip/effect/1/param/1" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/clip/effect/1/param/2" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/clip/effect/2/param/1" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/clip/effect/2/param/2" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/clip/effect/3/param/1" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/clip/effect/3/param/2" delta="0" time="0" type="1" />
+            </config0>
+        </midimappings>
+        <keyboardmappings currentconfig="0">
+            <config0 />
+        </keyboardmappings>
+        <memory scheme="fixed">
+            <fixed amount="512" />
+        </memory>
+        <dialog_message posy="50" posx="50" />
+        <dialogIO posy="59" posx="35" />
+        <filedialogproperties settings_midimappingsposx="10" settings_midimappingsposy="10" setposx="10" setposy="10" />
+        <dialogMedia posy="50" posx="50" />
+        <dialogWindows posy="22" posx="128" />
+        <routeediting updatewhiletyping="1" />
+        <dialogroute posy="231" posx="177" />
+        <dialogStability posy="50" posx="50" />
+        <dialogFilecache posy="50" posx="50" />
+        <dialogShader posy="50" posx="50" />
+        <compression maxtime="0" quality="0" />
+        <dialogAbout posy="50" posx="50" />
+    </Configuration0>
+</MXwendlerConfiguration20>
