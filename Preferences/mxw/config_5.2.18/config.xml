@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no" ?>
+<MXwendlerConfiguration20>
+  <Configuration0>
+    <performance framerate="25" liveupdate="25" vsync="1" perf_render_nearest_or_linear="0" warn_media_framerate_mismatch="1" keystone_multisampling_size="0" do_mc_onresize_during_glcanvas_onsize="0" perf_vj_or_mediaserver_mode="0" warn_monitor_framerate_mismatch="1" />
+    <midimappings currentconfig="0">
+      <config0>
+        <iomapline keyA="1" keyB="25" receiver="/mxw/render/opacity" delta="0.000000" time="0.000000" type="1" />
+      </config0>
+    </midimappings>
+    <keyboardmappings currentconfig="0">
+      <config0>
+        <iomapline keyA="0" keyB="8" receiver="/mxw/playlist/gotostart" delta="0" time="0" type="1" />
+        <iomapline keyA="0" keyB="32" receiver="/mxw/playlist/play" delta="3" time="0" type="1" />
+      </config0>
+    </keyboardmappings>
+    <dmxmappings currentconfig="0">
+      <config0>
+        <iomapline keyA="0" keyB="1" receiver="/mxw/render/opacity" delta="0" time="0" type="1" />
+      </config0>
+    </dmxmappings>
+    <routeediting updatewhiletyping="0">
+      <favourite expression="x                // the simplest - just pass" />
+      <favourite expression="1.0 - x          // the negative" />
+      <favourite expression="0.5              // a fix value" />
+      <favourite expression="sin(x*6)         // simple bounce" />
+      <favourite expression="mod(delta,2)*.5  // half speed" />
+      <favourite expression="mod(delta,8)*.12 // quarter speed" />
+      <favourite expression="midi(2,10)       // midivalueof[device 2][channel 10]" />
+      <favourite expression="keyboard(0,32)   // keyboardval[no shift,ctrl][space(inASCII)]" />
+      <favourite expression="clamp(x,0.2,0.8) // keep value in .2 .. .8 range" />
+    </routeediting>
+    <stability show_message_during_startup="0" lasterrcount="0" allerrcount="0" lasterror="noerror" runcount="3" />
+    <windows>
+      <misc showsplash="1" latitude="52.5" longitude="13.5" suntimes_trigger_offset="0" track_count="2" crossfadeonstart="1" layer_default_layerpos="0,0,1024,768/XGA 1&#x0A;1024,0,1024,768/XGA 2&#x0A;2048,0,1024,768/XGA 3" layer_default_fadein_value="1" scalemode="0" repeatmode="0" layer_blitmode="Picture In Picture" kiosk_mode="0" defaultshowfile="" default_start_io_command="" timer_daily_triggertime="12:00" fadersensivity="50">
+        <set width="2" last_name="" last_fademode="" last_fade_in_time="0" last_keep_running="0" />
+        <playlistgrid cols="3" cues="20" max_fade_time="100000" max_fade_time_step="250" />
+        <preload rows="5" cols="3" />
+        <editor last_active_tab="0" />
+      </misc>
+      <main rememberorspecify="1" posY="100" posX="100" sizeY="650" sizeX="1024" lastposX="100" lastposY="100" lastsizeX="1040" lastsizeY="708" />
+      <branding in_light_branding="0" />
+      <out removedecoration="0" hideorusetinyoutwincursor="1" use_different_rendersize="0" showoutwin="1" posY="50" posX="50" />
+      <sdi open_on_start="0" />
+      <defaultset type="1" />
+      <domeprojection open_on_start="0" />
+    </windows>
+    <filesaving>
+      <lastfile mru_showfile9="" mru_showfile8="" mru_showfile7="" mru_showfile6="" mru_showfile5="" mru_showfile4="" mru_showfile3="" mru_showfile2="" mru_showfile1="" mru_showfile0="">
+        <footage lastfilename="" lastdirname="" />
+        <settings_wiimappings lastfilename="" lastdirname="" />
+        <settings_dmxmappings lastfilename="" lastdirname="" />
+        <settings_midimappings lastfilename="" lastdirname="" />
+        <settings_timermappings lastfilename="" lastdirname="" />
+        <settings_keyboardmappings lastfilename="" lastdirname="" />
+        <settings_tuiomappings lastfilename="" lastdirname="" />
+        <set lastfilename="" lastdirname="" />
+        <packed_showfile lastfilename="" lastdirname="" />
+        <preloadbank lastfilename="" lastdirname="" />
+        <keystone2 lastfilename="" lastdirname="" />
+        <keystone2bitmap lastfilename="" lastdirname="" />
+        <playlist lastfilename="" lastdirname="" />
+      </lastfile>
+    </filesaving>
+    <media>
+      <jitter_bridges open="0" />
+      <virtual open="1" ipc_timeout="1000" pure_internal="1" />
+      <live open="1" ignoreunknown="1" try_visionrgb_dma="0" directshow_delete_ds_renderer="1">
+        <facetime_hd_camera__built_in_ opening_state="unknown" />
+        <mxwendler_01 friendly_name="MXwendler_01" use_ocr="0" use_deinterlace="0" fps="25" size_w="320" size_h="240" />
+      </live>
+    </media>
+    <audiomanager>
+      <clips use_cascading_fade="1" silent_if_no_layer="1" />
+    </audiomanager>
+    <wiimappings currentconfig="0">
+      <config0>
+        <iomapline keyA="9" keyB="0" receiver="/mxw/playlist/play" delta="0" time="0" type="1" />
+        <iomapline keyA="11" keyB="0" receiver="/mxw/playlist/gotostart" delta="0" time="0" type="1" />
+      </config0>
+    </wiimappings>
+    <io>
+      <wii open_wii="0" />
+      <dmx preferSHOWJOCKEY="0" preferDEDMX="0" connectonstart="0">
+        <artnet open_artnet="0" open_citp="0" networkinterface="2.0.0.2" shortname="MXWendler1" longname="MXWendler Mediaserver Number One ( The one behind the stage at the left side )" port="0" subnet="0" citp_base_lib_path="" citp_name="MXWendler Mediaserver" citp_tcp_port="60000" />
+        <ecue startRENDER2BUTLER="0" patchelorfile="" />
+      </dmx>
+      <midi translate_note_on_off="0" timesynctomtc="1" sendtimecodetoplaylist="1" send_to_motorfader="0">
+        <devices>
+          <active_midi_devices string_array_count="0" />
+        </devices>
+      </midi>
+      <tuio max_tap_count="5" />
+      <dialogsettings lastopen="5" lastselected="0" />
+      <dialog_timewarp do_only_warps="0" />
+    </io>
+    <osc receive="0" send="0" sendingreply="0" dump_received="0" ignore_old_ED="0">
+      <rs232 receive_osc_rs232="0" receive_osc_rs232_send_reply="0" comport_number="1" translate_int="0" />
+      <sending filter_out="" address="10.0.0.2" port="7001" />
+      <broadcast timesync="0" address="192.168.0.255" distribute_io_events="0" />
+      <receiving port="7000" />
+      <sendingreply address="10.0.0.2" port="7002" />
+    </osc>
+    <timermappings currentconfig="0">
+      <config0 />
+    </timermappings>
+    <tuiomappings currentconfig="0">
+      <config0 />
+    </tuiomappings>
+    <licenser>
+      <features Virtual-Cam-Larger-320="notavailable" Output-1-SXGA="notavailable" Eventdriver-Packet="notavailable" Entropy-Packet="notavailable" Output-2-SXGA="notavailable" />
+    </licenser>
+    <keystone crosshair_comment="Screen 1" />
+    <generators openaudioanalyzer="1" dampvalue="0.5" audiocontrols="16" beatdetectiontype="0" showtimeloop="1" />
+    <memory scheme="fixed">
+      <fixed amount="512" />
+    </memory>
+    <dialogIO posy="50" posx="50" />
+    <dialog_message posy="50" posx="50" />
+  </Configuration0>
+</MXwendlerConfiguration20>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>favorites</key>
+	<dict/>
+	<key>rawAssets</key>
+	<array>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Average the passed value with another weighted value</string>
+			<key>name</key>
+			<string>Average With</string>
+			<key>resourceName</key>
+			<string>AverageWith</string>
+			<key>type</key>
+			<integer>4</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Values between the slider's first and last marks are scaled up to use the slider's full range</string>
+			<key>name</key>
+			<string>Crop</string>
+			<key>resourceName</key>
+			<string>Crop</string>
+			<key>type</key>
+			<integer>4</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Delay incoming values for a period of time</string>
+			<key>name</key>
+			<string>Delay</string>
+			<key>resourceName</key>
+			<string>DelayNumFX</string>
+			<key>type</key>
+			<integer>4</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Incoming values "fall"</string>
+			<key>name</key>
+			<string>Fall</string>
+			<key>resourceName</key>
+			<string>Fall</string>
+			<key>type</key>
+			<integer>4</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Use a lookup curve to modify the passed value</string>
+			<key>name</key>
+			<string>Lookup Curve</string>
+			<key>resourceName</key>
+			<string>LookupCurve</string>
+			<key>type</key>
+			<integer>4</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Limit the passed value to a min/max range</string>
+			<key>name</key>
+			<string>Min/Max</string>
+			<key>resourceName</key>
+			<string>MinMax</string>
+			<key>type</key>
+			<integer>4</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Apply a modulus operation to the incoming value</string>
+			<key>name</key>
+			<string>Modulus</string>
+			<key>resourceName</key>
+			<string>Modulus</string>
+			<key>type</key>
+			<integer>4</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Multiply the incoming value by another value</string>
+			<key>name</key>
+			<string>Multiply</string>
+			<key>resourceName</key>
+			<string>Multiply</string>
+			<key>type</key>
+			<integer>4</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Add (or subtract) from the incoming value</string>
+			<key>name</key>
+			<string>Offset</string>
+			<key>resourceName</key>
+			<string>Offset</string>
+			<key>type</key>
+			<integer>4</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Add (or subtract) from the incoming value, wrapping the value if it's outside the range of the slider</string>
+			<key>name</key>
+			<string>Offset + Wrap</string>
+			<key>resourceName</key>
+			<string>OffsetWrap</string>
+			<key>type</key>
+			<integer>4</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Generates random numbers</string>
+			<key>name</key>
+			<string>Randomize</string>
+			<key>resourceName</key>
+			<string>Randomize</string>
+			<key>type</key>
+			<integer>4</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Smooths the stream of passed values</string>
+			<key>name</key>
+			<string>Smooth</string>
+			<key>resourceName</key>
+			<string>Smooth</string>
+			<key>type</key>
+			<integer>4</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Smooths the stream of passed values, wrapping from one end of a slider to another.  Useful for radial controls.</string>
+			<key>name</key>
+			<string>Smooth + Wrap</string>
+			<key>resourceName</key>
+			<string>SmoothWrap</string>
+			<key>type</key>
+			<integer>4</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Snaps the passed value to the nearest mark on the slider</string>
+			<key>name</key>
+			<string>Snap</string>
+			<key>resourceName</key>
+			<string>Snap</string>
+			<key>type</key>
+			<integer>4</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Value will be 1 or 0 depending on whether the passed value is above or below this threshold</string>
+			<key>name</key>
+			<string>Threshold</string>
+			<key>resourceName</key>
+			<string>Threshold</string>
+			<key>type</key>
+			<integer>4</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>/Library/Graphics/ISF/Angular.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Basic Shape.fs</key>
+	<real>583780634</real>
+	<key>/Library/Graphics/ISF/Bounce.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Bow Tie Horizontal.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Bow Tie Vertical.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Brick Pattern.fs</key>
+	<real>551042716</real>
+	<key>/Library/Graphics/ISF/Burn.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Butterfly Wave Scrawler.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Checkerboard.fs</key>
+	<real>592421801</real>
+	<key>/Library/Graphics/ISF/Circle Crop.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Circle Open.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Circle Trails.fs</key>
+	<real>583780634</real>
+	<key>/Library/Graphics/ISF/Circle.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Color Bars.fs</key>
+	<real>510239154</real>
+	<key>/Library/Graphics/ISF/Color History.fs</key>
+	<real>565724280</real>
+	<key>/Library/Graphics/ISF/Color Organ Polyphonic.fs</key>
+	<real>583780634</real>
+	<key>/Library/Graphics/ISF/Color Phase.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Color Scales.fs</key>
+	<real>583780634</real>
+	<key>/Library/Graphics/ISF/Color Schemes.fs</key>
+	<real>510239154</real>
+	<key>/Library/Graphics/ISF/Color Test Grid.fs</key>
+	<real>510239154</real>
+	<key>/Library/Graphics/ISF/Colour Distance.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Corner Colors.fs</key>
+	<real>565724280</real>
+	<key>/Library/Graphics/ISF/Crazy Parametric Fun.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/CrossZoom.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Crosshatch.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Crosswarp.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Digital Clock.fs</key>
+	<real>510239154</real>
+	<key>/Library/Graphics/ISF/Directional Warp.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Directional Wipe.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Directional.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Displacement.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Doom Screen Transition.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Doorway.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Dreamy Zoom.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Dreamy.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Etch-a-Sketch.fs</key>
+	<real>551042716</real>
+	<key>/Library/Graphics/ISF/FFT Color Lines.fs</key>
+	<real>510239154</real>
+	<key>/Library/Graphics/ISF/FFT Filled Waveform.fs</key>
+	<real>510239154</real>
+	<key>/Library/Graphics/ISF/FFT Spectrogram.fs</key>
+	<real>510239154</real>
+	<key>/Library/Graphics/ISF/Fade Color.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Fade Gray Scale.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Fade.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Film Burn.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Fly Eye.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Glitch Displace.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Glitch Memories.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Graph Paper.fs</key>
+	<real>551042716</real>
+	<key>/Library/Graphics/ISF/Grid Flip.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Grid Warp.fs</key>
+	<real>583780634</real>
+	<key>/Library/Graphics/ISF/Heart Transition.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Heart.fs</key>
+	<real>510239154</real>
+	<key>/Library/Graphics/ISF/Hexagonalize.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Inverted Page Curl.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Kaleidoscope Transition.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Life.fs</key>
+	<real>510239154</real>
+	<key>/Library/Graphics/ISF/Linear Blur.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Linear Gradient.fs</key>
+	<real>510239154</real>
+	<key>/Library/Graphics/ISF/Lines.fs</key>
+	<real>510239154</real>
+	<key>/Library/Graphics/ISF/Luma Transition.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Luminance Melt.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Morph.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Mosaic.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Multi Gradient.fs</key>
+	<real>583780634</real>
+	<key>/Library/Graphics/ISF/Multiply Blend.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Noise.fs</key>
+	<real>510239154</real>
+	<key>/Library/Graphics/ISF/Perlin Transition.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Pinwheel.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Pixelize.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Polar Function.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Polka Dots Curtain.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Poly Star.fs</key>
+	<real>560457867</real>
+	<key>/Library/Graphics/ISF/RE RGB Gradient Generator.fs</key>
+	<real>583780634</real>
+	<key>/Library/Graphics/ISF/Radial Gradient.fs</key>
+	<real>583780634</real>
+	<key>/Library/Graphics/ISF/Radial Spectrogram.fs</key>
+	<real>551042716</real>
+	<key>/Library/Graphics/ISF/Radial.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Random Lines.fs</key>
+	<real>510239154</real>
+	<key>/Library/Graphics/ISF/Random Shape Blast.fs</key>
+	<real>551042716</real>
+	<key>/Library/Graphics/ISF/Random Shape.fs</key>
+	<real>583780634</real>
+	<key>/Library/Graphics/ISF/Random Squares.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Ripple Transition.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Rotate Scale Fade.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Simple Zoom Transition.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Sine Warp Gradient.fs</key>
+	<real>583780634</real>
+	<key>/Library/Graphics/ISF/Solid Color.fs</key>
+	<real>510239154</real>
+	<key>/Library/Graphics/ISF/Spiral.fs</key>
+	<real>510239154</real>
+	<key>/Library/Graphics/ISF/Squares Wire.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Squeeze.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Star.fs</key>
+	<real>510239154</real>
+	<key>/Library/Graphics/ISF/Stereo Viewer.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Stripes.fs</key>
+	<real>592421801</real>
+	<key>/Library/Graphics/ISF/Swap Transition.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Swirl.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/TV Static.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Triangle.fs</key>
+	<real>583780634</real>
+	<key>/Library/Graphics/ISF/Truchet Tile.fs</key>
+	<real>583780634</real>
+	<key>/Library/Graphics/ISF/Undulating Burn Out.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/VU Meter.fs</key>
+	<real>583780634</real>
+	<key>/Library/Graphics/ISF/Water Drop.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Wind.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Window Blinds.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Window Slice.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Wipe Down.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Wipe Left.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Wipe Right.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Wipe Up.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/Zoom In Circles.fs</key>
+	<real>592259419</real>
+	<key>/Library/Graphics/ISF/cube.fs</key>
+	<real>592259419</real>
+	<key>/Users/Benny/Data/Works/Projekte/VJ/Shows/Training/Footage/Stars_final_gradient_frames_Seq_hap.mov</key>
+	<real>600356681</real>
+	<key>/Users/Benny/Data/Works/Projekte/VJ/Shows/Training/Footage/Stars_final_groups_bounce_Seq_hap.mov</key>
+	<real>600356873</real>
+	<key>/Users/Benny/Data/Works/Projekte/VJ/Shows/Training/Midi/MidiLayerSeq_hap.mov</key>
+	<real>600343996</real>
+	<key>/Users/Benny/Data/Works/Projekte/VJ/Shows/Training/Midi/MidiLayerSeq_hap_a.mov</key>
+	<real>600345258</real>
+	<key>/Users/Benny/Documents/VDMX Media/ISF/ALifeLEDWall.fs</key>
+	<real>464724251</real>
+	<key>/Users/Benny/Documents/VDMX Media/ISF/AlgorithmAtEgdeOfUniverse.fs</key>
+	<real>464724251</real>
+	<key>/Users/Benny/Documents/VDMX Media/ISF/Broken Tesseract.fs</key>
+	<real>464724251</real>
+	<key>/Users/Benny/Documents/VDMX Media/ISF/GridZoomSandwich.fs</key>
+	<real>464724251</real>
+	<key>/Users/Benny/Documents/VDMX Media/ISF/LogarithmicPinwheel.fs</key>
+	<real>464724251</real>
+	<key>/Users/Benny/Documents/VDMX Media/ISF/Tapestry Fract +.fs</key>
+	<real>464724251</real>
+	<key>/Users/Benny/Library/Application Support/VDMX/qcSources/Audio Levels.qtz</key>
+	<real>583863318</real>
+	<key>/Users/Benny/Library/Application Support/VDMX/qcSources/Circle Emitter.qtz</key>
+	<real>583863318</real>
+	<key>/Users/Benny/Library/Application Support/VDMX/qcSources/Circle Generator.qtz</key>
+	<real>583863318</real>
+	<key>/Users/Benny/Library/Application Support/VDMX/qcSources/Color Bars.qtz</key>
+	<real>583863318</real>
+	<key>/Users/Benny/Library/Application Support/VDMX/qcSources/DMX Color Panels.qtz</key>
+	<real>583863318</real>
+	<key>/Users/Benny/Library/Application Support/VDMX/qcSources/DMX to Video.qtz</key>
+	<real>583863318</real>
+	<key>/Users/Benny/Library/Application Support/VDMX/qcSources/Gradient.qtz</key>
+	<real>583863318</real>
+	<key>/Users/Benny/Library/Application Support/VDMX/qcSources/Jelly.qtz</key>
+	<real>583863318</real>
+	<key>/Users/Benny/Library/Application Support/VDMX/qcSources/Lathe.qtz</key>
+	<real>583863318</real>
+	<key>/Users/Benny/Library/Application Support/VDMX/qcSources/Noise Generator.qtz</key>
+	<real>583863318</real>
+	<key>/Users/Benny/Library/Application Support/VDMX/qcSources/Numbered Grid Test Pattern.qtz</key>
+	<real>583863318</real>
+	<key>/Users/Benny/Library/Application Support/VDMX/qcSources/Radial Gradient.qtz</key>
+	<real>583863318</real>
+	<key>/Users/Benny/Library/Application Support/VDMX/qcSources/Rect Emitter.qtz</key>
+	<real>583863318</real>
+	<key>/Users/Benny/Library/Application Support/VDMX/qcSources/Rectangle Generator.qtz</key>
+	<real>583863318</real>
+	<key>/Users/Benny/Library/Application Support/VDMX/qcSources/Rotating Wire Cubes.qtz</key>
+	<real>583863318</real>
+	<key>/Users/Benny/Library/Application Support/VDMX/qcSources/Rotating Wire Spheres.qtz</key>
+	<real>583863318</real>
+	<key>/Users/Benny/Library/Application Support/VDMX/qcSources/Shape Emitter.qtz</key>
+	<real>583863318</real>
+	<key>/Users/Benny/Library/Graphics/ISF/CoGe/Checkerboard.fs</key>
+	<real>486732432</real>
+	<key>/Users/Benny/Library/Graphics/ISF/CoGe/Heart.fs</key>
+	<real>486732432</real>
+	<key>/Users/Benny/Library/Graphics/ISF/CoGe/Linear Gradient.fs</key>
+	<real>486732432</real>
+	<key>/Users/Benny/Library/Graphics/ISF/CoGe/Lines.fs</key>
+	<real>486732432</real>
+	<key>/Users/Benny/Library/Graphics/ISF/CoGe/Noise.fs</key>
+	<real>486732432</real>
+	<key>/Users/Benny/Library/Graphics/ISF/CoGe/Radial Gradient.fs</key>
+	<real>486732432</real>
+	<key>/Users/Benny/Library/Graphics/ISF/CoGe/Sine Warp Gradient.fs</key>
+	<real>486732432</real>
+	<key>/Users/Benny/Library/Graphics/ISF/CoGe/Solid Color.fs</key>
+	<real>486732432</real>
+	<key>/Users/Benny/Library/Graphics/ISF/CoGe/Spiral.fs</key>
+	<real>486732432</real>
+	<key>/Users/Benny/Library/Graphics/ISF/CoGe/Star.fs</key>
+	<real>486732432</real>
+	<key>/Users/Benny/Library/Graphics/ISF/CoGe/Stripes.fs</key>
+	<real>486732432</real>
+	<key>/Users/Benny/Library/Graphics/ISF/CoGe/Triangle.fs</key>
+	<real>486732432</real>
+	<key>CIAztecCodeGenerator</key>
+	<real>-63114076800</real>
+	<key>CICheckerboardGenerator</key>
+	<real>-63114076800</real>
+	<key>CICode128BarcodeGenerator</key>
+	<real>-63114076800</real>
+	<key>CIConstantColorGenerator</key>
+	<real>-63114076800</real>
+	<key>CILenticularHaloGenerator</key>
+	<real>-63114076800</real>
+	<key>CIPDF417BarcodeGenerator</key>
+	<real>-63114076800</real>
+	<key>CIQRCodeGenerator</key>
+	<real>-63114076800</real>
+	<key>CIRandomGenerator</key>
+	<real>-63114076800</real>
+	<key>CIStarShineGenerator</key>
+	<real>-63114076800</real>
+	<key>CIStripesGenerator</key>
+	<real>-63114076800</real>
+	<key>CISunbeamsGenerator</key>
+	<real>-63114076800</real>
+</dict>
+</plist>

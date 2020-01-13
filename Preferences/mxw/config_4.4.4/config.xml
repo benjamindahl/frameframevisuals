@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="MacRoman" standalone="no" ?>
+<MXwendlerConfiguration20>
+    <Configuration0>
+        <stability show_message_during_startup="0" lasterrcount="0" allerrcount="1" lasterror="OSC init error: unable to bind udp socket&#x0A; (Port already in use?)" runcount="132" loglevel="1" executable="/Applications/MXWendler Beta64 4.4.4/MXWendler Beta 4.4.4.app/Contents/MacOS/MXWendler Beta 4.4.4" directory="/Applications/MXWendler Beta64 4.4.4/MXWendler Beta 4.4.4.app/Contents/MacOS/" crashmail="1" watchdog="0" />
+        <windows>
+            <misc showsplash="0" track_count="3" crossfadeonstart="0" track_default_fadein="2000" layer_default_layerpos="0,0,1024,768/XGA 1&#x0A;1024,0,1024,768/XGA 2&#x0A;2048,0,1024,768/XGA 3" layer_blitmode="Picture In Picture" layer_default_fadein_value="1" repeatmode="0" scalemode="1" kiosk_mode="0" latitude="52.5" longitude="13.5" suntimes_trigger_offset="0" defaultshowfile="" default_start_io_command="" timer_daily_triggertime="12:00" defaulttarget="---" fadersensivity="50" defaultclip="footage/WalkingMan_Outline_Loop_.avi" clip_affect_preload="1" layer_affect_preload="1" layer_affect_preload_no_opacity="1" layer_default_fadein="500">
+                <playlistgrid cols="3" rows="20" max_fade_time="100000" max_fade_time_step="250" />
+                <preload rows="4" cols="5" />
+                <editor last_active_tab="0" />
+            </misc>
+            <main rememberorspecify="0" posY="50" posX="128" sizeY="650" sizeX="1024" lastposX="0" lastposY="23" lastsizeX="1280" lastsizeY="749" lock_window="0" />
+            <branding in_light_branding="0" />
+            <out removedecoration="0" showoutwincursor="1" use_different_rendersize="1" sizeX="480" sizeY="320" showoutwin="1" posY="100" posX="100" rendersizeX="320" rendersizeY="240" />
+            <defaultset type="1" defaultsetpath="" />
+            <domeprojection open_on_start="0" />
+            <sdi open_on_start="0" safe_area="0" dataformat="0" signal_format="0" sync_source="0" sync_type="0" />
+        </windows>
+        <filesaving>
+            <lastfile mru_showfile9="" mru_showfile8="/Users/Benny/Data/Works/Projekte/VJ/Spacekidheadcup/Spacekidheadcup.mxs" mru_showfile7="/Users/Benny/Data/Works/Projekte/VJ/Stoelzl/Stoelzl.mxs" mru_showfile6="/Users/Benny/Data/Works/Projekte/VJ/Stoelzl/Stoelzl2.mxs" mru_showfile5="/Users/Benny/Data/Works/Projekte/VJ/Stoelzl/Stoelzl_last.mxs" mru_showfile4="/Users/Benny/Data/Works/Projekte/VJ/MoliGrillen/moligrillen1.mxs" mru_showfile3="/Users/Benny/Data/Works/Projekte/VJ/MoliGrillen/moligrillen2.mxs" mru_showfile2="/Users/Benny/Data/Works/Projekte/VJ/Zalando/Zalando.mxw" mru_showfile1="/Users/Benny/Data/Works/Projekte/VJ/Shows/Training/Settings/Counter.mxs" mru_showfile0="/Users/Benny/Data/Works/Projekte/VJ/Shows/Training/Settings/444.mxw">
+                <set lastfilename="mxw_saved.mxs" lastdirname="/var/folders/8l/3xfyqt8s6z709ly67_r9zm7r0000gn/T/" />
+                <packed_showfile lastfilename="444.mxw" lastdirname="/Users/Benny/Data/Works/Projekte/VJ/Shows/Training/Settings/" />
+                <preloadbank lastfilename="mxw_saved.mxwpreload" lastdirname="/var/folders/8l/3xfyqt8s6z709ly67_r9zm7r0000gn/T/" />
+                <keystone2 lastfilename="mxw_saved.mxwkeystone2" lastdirname="/var/folders/8l/3xfyqt8s6z709ly67_r9zm7r0000gn/T/" />
+                <keystone2bitmap lastfilename="moligrillenmask.png" lastdirname="/Users/Benny/Data/Works/Projekte/VJ/MoliGrillen/" />
+                <playlist lastfilename="mxw_saved.mxwplaylist" lastdirname="/var/folders/8l/3xfyqt8s6z709ly67_r9zm7r0000gn/T/" />
+                <settings_dmxmappings lastfilename="mxw_saved.dmxmappings" lastdirname="/var/folders/8l/3xfyqt8s6z709ly67_r9zm7r0000gn/T/" />
+                <settings_midimappings lastfilename="mxw_saved.midimappings" lastdirname="/var/folders/8l/3xfyqt8s6z709ly67_r9zm7r0000gn/T/" />
+                <settings_timermappings lastfilename="mxw_saved.timermappings" lastdirname="/var/folders/8l/3xfyqt8s6z709ly67_r9zm7r0000gn/T/" />
+                <settings_keyboardmappings lastfilename="mxw_saved.keyboardmappings" lastdirname="/var/folders/8l/3xfyqt8s6z709ly67_r9zm7r0000gn/T/" />
+                <settings_tuiomappings lastfilename="mxw_saved.tuiomappings" lastdirname="/var/folders/8l/3xfyqt8s6z709ly67_r9zm7r0000gn/T/" />
+            </lastfile>
+        </filesaving>
+        <performance perf_render_nearest_or_linear="0" warn_media_framerate_mismatch="1" framerate="25" keystone_multisampling_size="0" perf_vj_or_mediaserver_mode="0" vsync="0" warn_monitor_framerate_mismatch="1" video_disk_seconds_loadahead="8" millis_before_progress_dialog_showing_up="0">
+            <layer layer_pool_size="10" />
+            <clips clip_pool_size="10" />
+            <engine output_luminance_averageing_queue="5" />
+        </performance>
+        <media>
+            <jitter_bridges open="0" />
+            <live open="1" ignoreunknown="1" max_frame_queue="5" show_settings_dialog="0">
+                <built_in_isight opening_state="do not open" size_w="320" size_h="240" fps="25" />
+                <integrierte_isight_kamera opening_state="do not open" size_w="320" size_h="240" fps="25" />
+                <camtwist opening_state="open" size_w="640" size_h="480" fps="25" friendly_name="CamTwist" />
+                <camtwist__2vuy_ opening_state="do not open" size_w="320" size_h="240" fps="25" />
+            </live>
+            <virtual open="1" pure_internal="1" />
+            <avi open="1" prefer_external="1" />
+            <quicktime open="1" prefer_external="1" />
+            <swf open="1" handler="0" ASlimit="10" />
+            <imagesequences open="1" shrink="0" maxedge="1024" />
+            <images open="1" shrink="0" maxedge="1024" glcompress="0" image_maxbytes_for_static_texture="67108864" />
+            <text font_string="0;11;70;90;90;0;Lucida Grande;49" text_Halignment="1" text_Valignment="1" text_bg_alpha="255" text_anchorH="0" text_anchorV="20" text_layer_pos="7" text_track_pos="0" />
+            <ffmpeg preloaded_decoders="0" />
+            <mediafilesettings>
+                <_users_benny_pictures__cardbackup_dcim_101d5000 filename="/Users/Benny/Pictures/_CardBackup/DCIM/101D5000" internal_externalcodec="read_as_pic" />
+                <_users_benny_data_works_projekte_vj_julijuni_bennymxwendler filename="/Users/Benny/Data/Works/Projekte/VJ/JuliJuni/bennymxwendler" internal_externalcodec="read_as_img_sequence" />
+                <_users_benny_data_works_projekte_vj_moligrillen_footage filename="/Users/Benny/Data/Works/Projekte/VJ/MoliGrillen/footage" internal_externalcodec="read_as_img_sequence" />
+                <_users_benny_desktop_mxw filename="/Users/Benny/Desktop/MXW" internal_externalcodec="read_as_img_sequence" />
+                <_users_shared_mxw_360 filename="/Users/Shared/MXW/360" internal_externalcodec="read_as_img_sequence" />
+                <_users_shared_mxw_colorchecker filename="/Users/Shared/MXW/ColorChecker" internal_externalcodec="read_as_img_sequence" />
+                <_users_shared_mxw_colorchecker_kleiner filename="/Users/Shared/MXW/ColorChecker/kleiner" internal_externalcodec="read_as_img_sequence" />
+                <_users_shared_mxw_colorchecker_kleiner_series filename="/Users/Shared/MXW/ColorChecker/kleiner/Series" internal_externalcodec="read_as_img_sequence" />
+                <_applications_mxwendler_beta_4_4_4_footage_walkingman_outline_loop__avi filename="/Applications/MXWendler Beta 4.4.4/footage/WalkingMan_Outline_Loop_.avi" internal_externalcodec="external" />
+                <_users_benny_data_works_projekte_vj_shows_moligrillen_footage filename="/Users/Benny/Data/Works/Projekte/VJ/Shows/MoliGrillen/Footage" internal_externalcodec="read_as_img_sequence" />
+                <_users_benny_data_works_projekte_vj_shows_training_midi filename="/Users/Benny/Data/Works/Projekte/VJ/Shows/Training/Midi" internal_externalcodec="read_as_pic" />
+            </mediafilesettings>
+        </media>
+        <filecache usecache="1" abspath="/Applications/MXWendler Beta64 4.4.4/cache/" relpath="cache" relative="/cache/" />
+        <audiomanager>
+            <out open_audio="1" buffer_len_in_seconds="0.15" samplerate="44100" latency="0.083356" device="0" />
+            <in device="0" />
+            <clips use_cascading_fade="1" silent_if_no_layer="1" />
+            <audioemitter synctype="2" />
+            <syncmaster audio_skew_default_in_seconds="0" />
+        </audiomanager>
+        <keystone crosshair_comment="Screen 1" />
+        <generators openaudioanalyzer="1" dampvalue="0.476" audiocontrols="5" showtimeloop="1" beatdetectiontype="0" />
+        <osc receive="1" sendingreply="0" send="0" dump_received="0" ignore_old_ED="0">
+            <sending filter_out="" address="10.0.0.2" port="7001" />
+            <broadcast timesync="0" address="192.168.0.255" distribute_io_events="0" />
+            <receiving port="7000" address="-1" />
+            <sendingreply address="10.0.0.2" port="7002" />
+            <rs232 receive_osc_rs232="0" comport_number="1" translate_int="0" />
+        </osc>
+        <licenser>
+            <features Eventdriver-Packet="8Txp2glpb3tmyjbAwQpBPjO07AyMGxnrPWR1ySlAsgmDZSxX6jfXLi+nMELchWei" Output-1-SXGA="notavailable" Entropy-Packet="notavailable" Output-2-SXGA="zx6GGBXDN2wHkK1oy3mkR5+fMHO6RkMXVgoqRfUMr1Y=" Output-Unlimited="notavailable" Virtual-Cam-Larger-320="vm+4S9YUTp1llP5LWHJxsfh9rz8n+NEkip5BW7yM7WxDFTVhcklF3FFe5NJFwMdC" Output-SDI="notavailable" Max-20-Layers="GKPAOaCcgple7MYNeAbOSeduqirSkKsjhDhy0e6jbnw=" Max-10-Layers="notavailable" One-Playlist-Subtitles="notavailable" One-Playlist="1MRGtNRx4+QSTVCg0UzVjEfyxwfJ0UKkc9eUFDkxj0w=" Keystone-2="IEIQ35pjk1Vv79K+LHxC7bbIbiCgArpEl3K31+krJv4=" Keystone-Cubic="notavailable" Keystone-Linear="notavailable" DMX_Support="9BQnMQQobeHNg2vIiuLl2IeWWvaBpoZnJsQ9WkrXh8Y=" Asio-Multichannel="nEWcYInC13oaD/4MCHVD8TzCJg8iNugx8AosoW6UkbonVhMKftgXgxRCEuo00N9B" />
+        </licenser>
+        <dmxmappings currentconfig="0">
+            <config0 />
+        </dmxmappings>
+        <io>
+            <dmx preferSOUNDLIGHT="0" preferDEDMX="0" connectonstart="0">
+                <artnet open_artnet="0" networkinterface="2.0.0.2" shortname="MXWendler1" longname="MXWendler Mediaserver Number One ( The one behind the stage at the left side )" port="0" subnet="0" />
+                <ecue startRENDER2BUTLER="0" patchelorfile="" />
+            </dmx>
+            <midi translate_note_on_off="1" timesynctomtc="1" sendtimecodetoplaylist="1" send_to_motorfader="0">
+                <devices inputbuffersize="4096">
+                    <active_midi_devices string_array_count="4" item_0="Netzwerk FrameFrame" item_1="TouchOSC Bridge" item_2="Netzwerk FrameFrame (output)" item_3="TouchOSC Bridge (output)" />
+                </devices>
+            </midi>
+            <tuio max_tap_count="5" />
+            <dialog_timewarp do_only_warps="0" />
+            <dialogsettings lastopen="1" lastselected="36" />
+            <wii open_wii="0" />
+        </io>
+        <midimappings currentconfig="0">
+            <config0>
+                <iomapline keyA="13" keyB="0" receiver="/mxw/trackmanager" delta="0" time="0" type="1" />
+                <iomapline keyA="13" keyB="1" receiver="/mxw/track/1" delta="0" time="0" type="1" />
+                <iomapline keyA="13" keyB="2" receiver="/mxw/track/2" delta="0" time="0" type="1" />
+                <iomapline keyA="13" keyB="3" receiver="/mxw/track/3" delta="0" time="0" type="1" />
+                <iomapline keyA="13" keyB="11" receiver="/mxw/track/1/layer/1/opacity" delta="0" time="0" type="1" />
+                <iomapline keyA="13" keyB="12" receiver="/mxw/track/1/layer/2/opacity" delta="0" time="0" type="1" />
+                <iomapline keyA="13" keyB="13" receiver="/mxw/track/1/layer/3/opacity" delta="0" time="0" type="1" />
+                <iomapline keyA="13" keyB="21" receiver="/mxw/track/2/layer/1/opacity" delta="0" time="0" type="1" />
+                <iomapline keyA="13" keyB="22" receiver="/mxw/track/2/layer/2/opacity" delta="0" time="0" type="1" />
+                <iomapline keyA="13" keyB="23" receiver="/mxw/track/2/layer/3/opacity" delta="0" time="0" type="1" />
+                <iomapline keyA="13" keyB="31" receiver="/mxw/track/3/layer/1/opacity" delta="0" time="0" type="1" />
+                <iomapline keyA="13" keyB="32" receiver="/mxw/track/3/layer/2/opacity" delta="0" time="0" type="1" />
+                <iomapline keyA="13" keyB="33" receiver="/mxw/track/3/layer/3/opacity" delta="0" time="0" type="1" />
+                <iomapline keyA="14" keyB="1" receiver="/mxw/preload/1/trigger" script="H2Z1bmN0aW9uIG9uX3RyaWdnZXIoKQp7CnByaW50X2NvBm5zb2xlKCKgGgUiKTsKfQDgAwAKYNGk6P9/AABgdJ5gBwDAoAcB4PiAFwBAIA8B/38=" delta="0" time="0" type="1" />
+                <iomapline keyA="14" keyB="2" receiver="/mxw/preload/2/trigger" delta="0" time="0" type="1" />
+                <iomapline keyA="14" keyB="3" receiver="/mxw/preload/3/trigger" delta="0" time="0" type="1" />
+                <iomapline keyA="14" keyB="4" receiver="/mxw/preload/4/trigger" delta="0" time="0" type="1" />
+                <iomapline keyA="14" keyB="5" receiver="/mxw/preload/5/trigger" delta="0" time="0" type="1" />
+                <iomapline keyA="14" keyB="6" receiver="/mxw/preload/6/trigger" delta="0" time="0" type="1" />
+                <iomapline keyA="14" keyB="7" receiver="/mxw/preload/7/trigger" delta="0" time="0" type="1" />
+                <iomapline keyA="14" keyB="8" receiver="/mxw/preload/8/trigger" delta="0" time="0" type="1" />
+                <iomapline keyA="14" keyB="9" receiver="/mxw/preload/9/trigger" delta="0" time="0" type="1" />
+                <iomapline keyA="14" keyB="10" receiver="/mxw/preload/10/trigger" delta="0" time="0" type="1" />
+                <iomapline keyA="14" keyB="11" receiver="/mxw/preload/11/trigger" delta="0" time="0" type="1" />
+                <iomapline keyA="14" keyB="12" receiver="/mxw/preload/12/trigger" delta="0" time="0" type="1" />
+                <iomapline keyA="14" keyB="13" receiver="/mxw/preload/13/trigger" delta="0" time="0" type="1" />
+                <iomapline keyA="14" keyB="14" receiver="/mxw/preload/14/trigger" delta="0" time="0" type="1" />
+                <iomapline keyA="14" keyB="15" receiver="/mxw/preload/15/trigger" delta="0" time="0" type="1" />
+                <iomapline keyA="15" keyB="0" receiver="/mxw/render/scale" delta="0" time="0" type="1" />
+                <iomapline keyA="15" keyB="1" receiver="/mxw/render/rotation" delta="0" time="0" type="1" />
+                <iomapline keyA="15" keyB="2" receiver="/mxw/render/translationx" delta="0" time="0" type="1" />
+                <iomapline keyA="15" keyB="3" receiver="/mxw/render/translationy" delta="0" time="0" type="1" />
+                <iomapline keyA="15" keyB="4" receiver="/mxw/render/opacity" delta="0" time="0" type="1" />
+                <iomapline keyA="15" keyB="5" receiver="/mxw/render/effect/1/param/1" delta="0" time="0" type="1" />
+                <iomapline keyA="15" keyB="6" receiver="/mxw/beatbutton" delta="0" time="0" type="1" />
+                <iomapline keyA="15" keyB="7" receiver="/mxw/render" script="H2Z1bmN0aW9uIG9uX3RyaWdnZXIoKQp7Cm14dy5zZW5kCl9taWRpKDE0LDEsQBIId2lkZ2V0KCIvIAwKL3RyYWNrLzEiKS4gEwlWYWx1ZSgpKTsg4Ao74BE8Dy9sYXllci8zL29wYWNpdHngGkwAMuAQiaBMADLgIkwAM+AXTAAx4CFM4BCYADLgGdUAMuEQIgAyoNXhIiIAMuARiaBM4Q8i4Qm7ADLhECHAS+EiIeAQSwAz4RkhADPhECEAM6DU4SIhADPhECHATOEPIeIK3gAz4BHWoJnhICICNiww4gmQAHIjhyMjBHNjYWxl4RcnADbjC6igQANyb3RhQ+vgGUPhCh2gQyPzAm5zbGBGAHjgGUfhChjgCUfjGPMCNiw04RAU5B42AjYsNeAQQgVlZmZlY3QhowRwYXJhbeQIzwMKfQoA4NkA4ADjAzTKAwEg7gACIAPg/wDg0wAACyDcAA0gAwAPIAMAESADABMgAwAVIAMAFyADABkgAwAbIAMAHSADAB8gAwAhIAMAIyADACUgAwAnIAMAKSADACsgAwAtIAMALyADADEgAwAzIAMANSADADcgAwA5IAMAOyADAD0gAwA/IAMAQSADAEMgAwBFIAMARyADAEkgAwBLIAMATSADAE8gAwBRIAMAUyADAFUgAwBXIAMAWSADAFsgAwBdIAMAXyADAGEgAwBjIAMAZSADAGcgAwBpIAMAayADAG0gAwBvIAMAcSADAHMgAwB1IAMAdyADAHkgAwB7IAMAfSADAH8gAwCBIAMAgyADAIUgAwCHIAMAiSADAIsgAwCNIAMAjyADAJEgAwCTIAMAlSADAJcgAwCZIAMAmyADAJ0gAwCfIAMAoSADAKMgAwClIAMApyADAKkgAwCrIAMArSADAK8gAwCxIAMAsyADALUgAwC3IAMAuSADALsgAwC9IAMAvyADAMEgAwDDIAMAxSADAMcgAwDJIAMAyyADAM0gAwDPIAMA0SADANMgAwDVIAMA1yADANkgAwDbIAMA3SADAN8gAwDhIAMA4yADAOUgAwDnIAMA6SADAOsgAwDtIAMA7yADAPEgAwDzIAMA9SADAPcgAwD5IAMA+yADAP0gAwD/IAMAASPYQ9wABSAHAAcgAwAJIAMACyADAA0gAwAPIAMAESADABMgAwAVIAMAFyADABkgAwAbIAMAHSADAB8gAwAhIAMAIyADACUgAwAnIAMAKSADACsgAwAtIAMBLwE=" delta="0" time="0" type="1" />
+                <iomapline keyA="2" keyB="60" receiver="/mxw/track/3/layer/1/opacity" delta="0" time="0" type="1" />
+                <iomapline keyA="2" keyB="62" receiver="/mxw/track/3/layer/2/opacity" delta="0" time="0" type="1" />
+                <iomapline keyA="2" keyB="64" receiver="/mxw/track/3/layer/3/opacity" delta="0" time="0" type="1" />
+                <iomapline keyA="2" keyB="65" receiver="/mxw/track/3/layer/4/opacity" delta="0" time="0" type="1" />
+                <iomapline keyA="2" keyB="67" receiver="/mxw/track/3/layer/5/opacity" delta="0" time="0" type="1" />
+                <iomapline keyA="2" keyB="69" receiver="/mxw/track/3/layer/6/opacity" delta="0" time="0" type="1" />
+                <iomapline keyA="2" keyB="71" receiver="/mxw/track/3/layer/7/opacity" delta="0" time="0" type="1" />
+                <iomapline keyA="2" keyB="72" receiver="/mxw/track/3/layer/8/opacity" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/playlist/pause" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="[no receiver]" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/playlist/play" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/playlist/gotoprev" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/playlist/gotonext" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/layermanager" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/reset" delta="0" time="0" type="3" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/rotation" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/scalexy" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/aspectratio" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/translationy" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/scale" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/set" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/mode" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/translationx" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/opacity" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/clip/position" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/clip/speed" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/clip/effect/1/param/1" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/clip/effect/1/param/2" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/clip/effect/2/param/1" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/clip/effect/2/param/2" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/clip/effect/3/param/1" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/clip/effect/3/param/2" delta="0" time="0" type="1" />
+                <iomapline keyA="-33" keyB="-33" receiver="/mxw/Audioampcontroller" delta="0" time="0" type="1" />
+            </config0>
+        </midimappings>
+        <timermappings currentconfig="0">
+            <config0 />
+        </timermappings>
+        <keyboardmappings currentconfig="0">
+            <config0 />
+        </keyboardmappings>
+        <tuiomappings currentconfig="0">
+            <config0 />
+        </tuiomappings>
+        <memory scheme="fixed">
+            <fixed amount="512" />
+        </memory>
+        <dialog_message posy="475" posx="602" />
+        <filedialogproperties setposx="10" setposy="10" settings_midimappingsposx="10" settings_midimappingsposy="10" preloadbankposx="10" preloadbankposy="10" keystone2bitmapposx="10" keystone2bitmapposy="10" packed_showfileposx="10" packed_showfileposy="10" />
+        <dialogIO posy="30" posx="125" />
+        <dialogWindows posy="80" posx="195" />
+        <dialogMedia posy="50" posx="50" />
+        <dialogShader posy="50" posx="50" />
+        <dialogStability posy="50" posx="50" />
+        <dialogFilecache posy="50" posx="50" />
+        <compression quality="1" framespersecond="1" />
+        <routeediting updatewhiletyping="1">
+            <favourite expression="1.0 * x                         // einfach weiterreichen" />
+            <favourite expression="1.0 - x                         // der Negativwert" />
+            <favourite expression="mod(delta,2)*.5&#x09;&#x09;&#x09;&#x09;   // half speed" />
+        </routeediting>
+        <dialogroute posy="50" posx="50" />
+        <dialogAbout posy="50" posx="50" />
+    </Configuration0>
+</MXwendlerConfiguration20>

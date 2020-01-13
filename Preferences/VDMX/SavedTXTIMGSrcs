@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>rawAssets</key>
+	<array>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>isTXT</key>
+			<true/>
+			<key>name</key>
+			<string>Beat Text.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/Benny/Library/Application Support/VDMX/qcTextSources/Beat Text.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>isTXT</key>
+			<true/>
+			<key>name</key>
+			<string>Block Text.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/Benny/Library/Application Support/VDMX/qcTextSources/Block Text.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>isTXT</key>
+			<true/>
+			<key>name</key>
+			<string>Fade Text.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/Benny/Library/Application Support/VDMX/qcTextSources/Fade Text.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>isTXT</key>
+			<false/>
+			<key>name</key>
+			<string>Image Zoomer.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/Benny/Library/Application Support/VDMX/qcImageSources/Image Zoomer.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>isTXT</key>
+			<true/>
+			<key>name</key>
+			<string>Scrolling Text.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/Benny/Library/Application Support/VDMX/qcTextSources/Scrolling Text.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>isTXT</key>
+			<false/>
+			<key>name</key>
+			<string>Sphere Map.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/Benny/Library/Application Support/VDMX/qcImageSources/Sphere Map.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

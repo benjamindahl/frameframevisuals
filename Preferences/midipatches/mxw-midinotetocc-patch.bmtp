@@ -1,0 +1,66 @@
+[MIDI.routes]
+In0=IAC-Treiber Wavetick
+Out0=midiLE USB Dest
+In1=midiLE USB Source
+Out1=IAC-Treiber NoteToCC
+In2=from LiquidLoops 1
+Out2=IAC-Treiber NoteToCC
+
+[Preset.0]
+Name=Opacity - Layer # - Track 1
+Active=1
+PresetSwitchIgnore=0
+DefaultInPorts=MIDA00020011midiLE USB Source0012from LiquidLoops 1
+DefaultOutPorts=MIDA00010014IAC-Treiber NoteToCC
+Name0=Opacity (Var Velocity) - Layer (Var Note) - Track 1
+Incoming0=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="10"/><Value1 var="no" Type="SetVar"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing0=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="10"/><Value1 var="no"/><Value2 var="vv"/></Simple></Outgoing>
+Options0=Actv01Stop00OutO00
+Name1=Opacity (Var Velocity) - Layer (Var Note) - Track 1
+Incoming1=MID3<Incoming Action="MIDI"><Simple Type="NoteOff"><Channel num="10"/><Value1 var="no" Type="SetVar"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing1=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="10"/><Value1 var="no"/><Value2 var="vv"/></Simple></Outgoing>
+Options1=Actv01Stop00OutO00
+Name2=Opacity (Var Velocity) - Layer (Var Note) - Track 2
+Incoming2=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="11"/><Value1 var="no" Type="SetVar"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing2=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="11"/><Value1 var="no"/><Value2 var="vv"/></Simple></Outgoing>
+Options2=Actv01Stop00OutO00
+Name3=Opacity (Var Velocity) - Layer (Var Note) - Track 2
+Incoming3=MID3<Incoming Action="MIDI"><Simple Type="NoteOff"><Channel num="11"/><Value1 var="no" Type="SetVar"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing3=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="11"/><Value1 var="no"/><Value2 var="vv"/></Simple></Outgoing>
+Options3=Actv01Stop00OutO00
+Name4=Opacity (Var Velocity) - Layer (Var Note) - Track 3
+Incoming4=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="12"/><Value1 var="no" Type="SetVar"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing4=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="12"/><Value1 var="no"/><Value2 var="vv"/></Simple></Outgoing>
+Options4=Actv01Stop00OutO00
+Name5=Opacity (Var Velocity) - Layer (Var Note) - Track 3
+Incoming5=MID3<Incoming Action="MIDI"><Simple Type="NoteOff"><Channel num="12"/><Value1 var="no" Type="SetVar"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing5=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="12"/><Value1 var="no"/><Value2 var="vv"/></Simple></Outgoing>
+Options5=Actv01Stop00OutO00
+
+[Preset.1]
+Name=NoteToCC ClipPosition
+Active=1
+PresetSwitchIgnore=0
+Name0=ClipPosition 1 - Layer 1 - Track 3
+Incoming0=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x3C"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing0=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x01"/><Value2 num="0x00"/></Simple></Outgoing>
+Options0=Actv01Stop00OutO00
+Name1=ClipPosition 2 - Layer 1 - Track 3
+Incoming1=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x3E"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing1=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x01"/><Value2 num="0x10"/></Simple></Outgoing>
+Options1=Actv01Stop00OutO00
+Name2=ClipPosition 2 - Layer 1 - Track 3
+Incoming2=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x40"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing2=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x01"/><Value2 num="0x20"/></Simple></Outgoing>
+Options2=Actv01Stop00OutO00
+
+[Project]
+Version=2
+Author=
+AuthorContact=
+Comments=
+AuthorWWW=
+AuthorCopyright=
+DefaultInPorts=MIDA00020011midiLE USB Source0014IAC-Treiber Wavetick
+DefaultOutPorts=MIDA00020014IAC-Treiber NoteToCC000FmidiLE USB Dest
+

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="unknown-47" standalone="no" ?>
+<config0>
+    <iomapline keyA="13" keyB="1" receiver="/mxw/track/1" delta="0" time="0" type="1" />
+    <iomapline keyA="13" keyB="2" receiver="/mxw/track/2" delta="0" time="0" type="1" />
+    <iomapline keyA="13" keyB="3" receiver="/mxw/track/3" delta="0" time="0" type="1" />
+    <iomapline keyA="13" keyB="4" receiver="/mxw/trackmanager" script="H2Z1bmN0aW9uIG9uX3RyaWdnZXIoKQp7IApwcmludF9jGm9uc29sZShteHcubWlkaSgxMyw0KSk7CmlmIOAGFBc9PTAuMDg2NjE0MTA5NTc1NzQ4NDQpewpAOgh3aWRnZXQoIi8gDAkvdHJhY2ttYW5hIGsPIikuc2V0VmFsdWUoMCk7IGAtBHNlbmRfgG0GNCw1LDAuMUBMCzAxOTUxNjQ2ODA0OCApCi8vV2VydCAyMCB2IL0CMTI44Ak6ADYgOgcyMzYyMjAzMCA9BTc2MDEzMuABOgAz4AE6A30KfQDgAQAAAiAKABYgAwAjIANgsQhwcmVsb2FkLzMgu2EiAAAhEgAioS4BIingEC8ANOAAL+EEYwAOIFcABSADAxxz9RcgBuAEAAABIA0CMKyEIAXgEQDgEG8ANeAAb+AEAEBvAAYgEQCM4BpvAQAA" delta="0" time="0" type="1" />
+    <iomapline keyA="13" keyB="5" receiver="/mxw/trackmanager" script="H2Z1bmN0aW9uIG9uX3RyaWdnZXIoKQp7IApwcmludF9jGm9uc29sZShteHcubWlkaSgxMyw1KSk7CmlmIOAGFBc9PTAuMTY1MzU0MjA3MTU4MDg4NjgpewpAOgh3aWRnZXQoIi8gDAkvdHJhY2ttYW5hIGsMIikuc2V0VmFsdWUoMSBWIB8gEAJuZF+AbB80LDQsMC4wNzg3NDAwOTc1ODIzNDAyNCk7IC8vV2VydAQgMTAgdiC8AjEyOOAJOgA2IDoQMjM2MjIwMzAwMTk3NjAxMzLgAToAM+ABOgN9Cn0A4AIAAAEgCwAIIAQAEyADAGbhKR8ANuELHwA2YR8LMjQ0MDk0MzEyMTkxINABNTLhIx8gu+AJ5OEyHwA1IR8EMTU3NDghHAg1MTY0NjgwNDg=" delta="0" time="0" type="1" />
+    <iomapline keyA="13" keyB="6" receiver="/mxw/trackmanager" script="H2Z1bmN0aW9uIG9uX3RyaWdnZXIoKQp7IApwcmludF9jGm9uc29sZShteHcubWlkaSgxMyw2KSk7CmlmIOAGFBc9PTAuMjQ0MDk0MzEyMTkxMDA5NTIpewpAOgh3aWRnZXQoIi8gDAkvdHJhY2ttYW5hIGsMIikuc2V0VmFsdWUoMiBWIB8gEAJuZF+AbAo0LDQsMC4wNzg3NCBOFjc1ODIzNDAyNCk7IC8vV2VydCAxMCB2ILwCMTI44Ak6ADUgOhAxNTc0ODAxOTUxNjQ2ODA0OOABOgAy4AE6A30KfQDgAgAADiALAAogAwOsd/UXIAbgBAAAASANAjCshCAF4BEAAAIgGkA4ACMgB2DxCXByZWxvYWQvMTAg/GFjIBngAQBAbwALIA4BHHjgR28AMeAMb0DbACsgbwCM4AhvAQAA" delta="0" time="0" type="1" />
+    <iomapline keyA="14" keyB="1" receiver="/mxw/preload/1/trigger" script="H2Z1bmN0aW9uIG9uX3RyaWdnZXIoKQp7CnByaW50X2NvBm5zb2xlKCKgGh8iKTsKfQByL29wYWNpdHlgz0AjAFzgANZNpIwHAAEEMQYzLzQAAAABIAMACSAEABMgAwBmIF8BdGk=" delta="0" time="0" type="1" />
+    <iomapline keyA="14" keyB="2" receiver="/mxw/preload/2/trigger" delta="0" time="0" type="1" />
+    <iomapline keyA="14" keyB="3" receiver="/mxw/preload/3/trigger" delta="0" time="0" type="1" />
+    <iomapline keyA="14" keyB="4" receiver="/mxw/preload/4/trigger" delta="0" time="0" type="1" />
+    <iomapline keyA="14" keyB="5" receiver="/mxw/preload/5/trigger" delta="0" time="0" type="1" />
+    <iomapline keyA="14" keyB="6" receiver="/mxw/preload/6/trigger" delta="0" time="0" type="1" />
+    <iomapline keyA="14" keyB="7" receiver="/mxw/preload/7/trigger" delta="0" time="0" type="1" />
+    <iomapline keyA="14" keyB="8" receiver="/mxw/preload/8/trigger" delta="0" time="0" type="1" />
+    <iomapline keyA="14" keyB="9" receiver="/mxw/preload/9/trigger" delta="0" time="0" type="1" />
+    <iomapline keyA="14" keyB="10" receiver="/mxw/preload/10/trigger" delta="0" time="0" type="1" />
+    <iomapline keyA="14" keyB="11" receiver="/mxw/preload/11/trigger" delta="0" time="0" type="1" />
+    <iomapline keyA="14" keyB="12" receiver="/mxw/preload/12/trigger" delta="0" time="0" type="1" />
+    <iomapline keyA="14" keyB="13" receiver="/mxw/preload/13/trigger" delta="0" time="0" type="1" />
+    <iomapline keyA="14" keyB="14" receiver="/mxw/preload/14/trigger" delta="0" time="0" type="1" />
+    <iomapline keyA="14" keyB="15" receiver="/mxw/preload/15/trigger" delta="0" time="0" type="1" />
+    <iomapline keyA="15" keyB="0" receiver="/mxw/render/scale" script="H2Z1bmN0aW9uIG9uX3RyaWdnZXIgKCkgeyBteHcud2lkBWdldCgiLyAMHy9yZW5kZXIvc2NhbGUiKS5zZXRWYWx1ZShNYXRoLnJvCHVuZCgxMDAqKCArDS5taWRpKDE1LDApKSkvIBUEKTsKfQDgAAAADyAJAAcgAwPccPUXIAbgBAAAASANAwwWzgMgBuAHAMCBBHTf////QAMB/H3gCz8BAAA=" delta="0" time="0" type="1" />
+    <iomapline keyA="15" keyB="1" receiver="/mxw/render/rotation" delta="0" time="0" type="1" />
+    <iomapline keyA="15" keyB="2" receiver="/mxw/render/translationx" script="H2Z1bmN0aW9uIG9uX3RyaWdnZXIgKCkgewpteHcud2lkBWdldCgiLyAMDi9yZW5kZXIvdHJhbnNsYUAzHHgiKS5zZXRWYWx1ZShNYXRoLnJvdW5kKDEwMCooIDINLm1pZGkoMTUsMikpKS8gFQQpOwp9AOAJAAAPIBIABSADA/x/9RcgBuAEAAABIA0CMKyEIAXgCAAghQZAMxx5IikCIBoAHCADACMgA+ADqgVlZmZlY3Q=" delta="0" time="0" type="1" />
+    <iomapline keyA="15" keyB="3" receiver="/mxw/render/translationy" script="H2Z1bmN0aW9uIG9uX3RyaWdnZXIgKCkgewpteHcud2lkBWdldCgiLyAMDi9yZW5kZXIvdHJhbnNsYUAzHHkiKS5zZXRWYWx1ZShNYXRoLnJvdW5kKDEwMCooIDINLm1pZGkoMTUsMykpKS8gFQkpOwp9AGxhQDMcIDoPQD8ABSAeAVzq4DhhPKQ2AIAABCBm9BcPIAoAASADA4x89RcgBuAEAEAXAjCshOAEE6AAAGXAjgACIBAAFCADACMgAwEvbQ==" delta="0" time="0" type="1" />
+    <iomapline keyA="15" keyB="4" receiver="/mxw/render/opacity" delta="0" time="0" type="1" />
+    <iomapline keyA="15" keyB="5" receiver="/mxw/render/effect/1/param/1" delta="0" time="0" type="1" />
+    <iomapline keyA="15" keyB="6" receiver="/mxw/beatbutton" delta="0" time="0" type="1" />
+    <iomapline keyA="15" keyB="7" receiver="/mxw/render" script="H2Z1bmN0aW9uIG9uX3RyaWdnZXIoKQp7Ci8vIG14dy5zDWVuZF9taWRpKDE0LDAsQBIId2lkZ2V0KCIvIAwJL3RyYWNrbWFuYSA3AiIpLiAYClZhbHVlKCkpOyAKICDgBUAAMeAOQAEvMeAXOwMxLDM24BA8Dy9sYXllci8xL29wYWNpdHngGkwAOOAXTAAy4CFMADThDxcgkYCZADPgDkzhByECMSw04REioEsANOAOS+EIbiBMADPgF+UANeAiTAA14BdMADbgIkwAN+AXTAA34CJM4RjMADjgD0zhCDQCNCwy4A+ZADLiF1YAMuISowAyob3iIKMgTOAQ1sBM4iCjADLiEqPATOIfoyBL4hCjwEviIKMgTOIQo8BM4iCjIEziEKPATOIgoyBM4hCjwEziIKMgTOEYzOIjo+EQMwAz4hejADPiEqMAM+InoyBM4BDWwEziIKMAM+ISo8BM4h+jIEviEKPAS+IgoyBM4RFvoTLiIKMgTOIQo8BM4iCjIEziEKPATOIgoyBM4RjM4g+jSC0NcHJpbnRfY29uc29sZShH+ugEKAByKEgnowRzY2FsZeIGpOAJPQ5NYXRoLnJvdW5kKDEwMCrgI00BKS8gMegKfAA2KL3gTFYAMeAgVgNyb3RhSWrgBf7gEbAAMuAgWSmFAm5zbGBcAHjgH10AM+ArXekGWuARuwA04CBd6Qyz4BFYADXgIFgFZWZmZWN0J3EEcGFyYW3qB2KgYQcKfQAJABAEAGAABBEBCQAR4AILABLgAgsAE+ACCwAU4AILABXgAgsAFuACCwAX4AILABjgAgsAGeACCwAa4AILABvgAgsAHOACCwAd4AILACDgAgsAIeACCwAi4AILACPgAgsBAAVg1mDXAAHgAgsHEAgAAAo29RdAHQMKr0akIAcBgAIgBAP8////QD4A+iAHAEwgDwAZIANAFyAOAX8TIAjgAw8MoDj1FzB09hdQMPUXUCAHH2BSTaS0fUukoKXyF4RlSaQ0Q0ikMHX2F0Do9hewc/YXBMCMCQTQIAcF0L4CBBDpIA8gBwAwIAcAUCADBHDq9hegIAMI8L0CBLRmSaTgQAsgAwZwxgIEAOv2YBcA8CA7BFBhAAQQIGtAJwBgIBcHAOz2FxDWcwNAUwDQIC8AUCALQBsAZCCHQAcAUCAfQAcAMKAHAMAgI0ArADAgO0AXAEAgB0BTAiA39WAPAAAg00APAFCgFwBwIDdADwCQIAcAaCDfAPAgBwQQ7fYXMCADAFAgAwCwIA8AQCA7QMtAVwBwIAvAg0BfwANAG0ALQEvAB0ALQAMGoDT1F9AHA2AjANAgC+AnPwCAIHNBJ0BjAODgKj8AsCA/QHNAPwDQIM9AC0Cj4AMDQBtAD0CvwAdAC0ADARDkIQ8hd0AjAODgKj8AQCA/AuDVdGA/ASAyIksgS0Bj4AMDQFtAD0BvwAdAC0ADADAgM2JbIk8AIEG34CY/AYDfIL8ApCKbID8DsLwCBOAAPyFLQNdBW0BnALAgJ0AHAOBBLyKHwAMF8Of2FwAvgL/gAz9AO0ADwK8A8KA3ACAjD8A7QAcAkCA/QAcAsCAHAOAgA+AHh0BDQAPARwGwdyNzIH8AwKAHQAtAA0AfAHAgEwCgIAPgF0MBcHmAQwCAoAdAP0ADQDcAMCATAGAgA0AL4BPPATB7gEMAQKAHQD9AA0OPBPB69hcgIBfgF0MB8HyAQwEAfYAHQD9AA0NPALAgGwDgIAPgF0MBsH6AOwDAoAdAP0ADQ1MAcCATAKAgA0BDQBPhANskZ8ADQBdAC+ADB0ALQAMBMIAkXwAzI58iG2Aj4gpbQCdgGyGTwAdAC0ADAGAgPwAgoD9AQ+AoPyLbAJAgA0A7QVfgJz8B0OUi26B/QVPgJz8BAOYlewGB9mB/QU/gKD8AgiB/IANAv2NH4SY/AXCFJj+gP0A7QANBY+ADA0FnQA/gAwdAC0ADAKAgPwEwh4C/Q0PgJz8AQCA7AHAgA0C/RKPgJz8EsIP2F4CgP0Sj4Cc/AOAgPwEQjKC/JKPgJz8AICA7AFAgA0C/RKPgJz8E8Ij2F2CgPwFAiSNn4Sa/AfCQJRuifwEgkeApPwGwkiI/IDdAvwAw4Cp/AOAgPwAgIDdAPwHgjeApfwDwIDMBII6BfwCgI4fgJ/8AsCAzAECgvwDwIAvgJz8E0Jz2F+AgN0C/ARCd4Cm/ARCbIX8gN0A/AEAgC8B/af8lAyneAgAKYQ==" delta="0" time="0" type="1" />
+    <iomapline keyA="10" keyB="36" receiver="/mxw/track/1/layer/1/opacity" delta="0" time="0" type="1" />
+    <iomapline keyA="10" keyB="38" receiver="/mxw/track/1/layer/2/opacity" delta="0" time="0" type="1" />
+    <iomapline keyA="10" keyB="40" receiver="/mxw/track/1/layer/3/opacity" delta="0" time="0" type="1" />
+    <iomapline keyA="10" keyB="41" receiver="/mxw/track/1/layer/4/opacity" delta="0" time="0" type="1" />
+    <iomapline keyA="10" keyB="43" receiver="/mxw/track/1/layer/5/opacity" delta="0" time="0" type="1" />
+    <iomapline keyA="10" keyB="45" receiver="/mxw/track/1/layer/6/opacity" delta="0" time="0" type="1" />
+    <iomapline keyA="10" keyB="47" receiver="/mxw/track/1/layer/7/opacity" delta="0" time="0" type="1" />
+    <iomapline keyA="10" keyB="48" receiver="/mxw/track/1/layer/8/opacity" delta="0" time="0" type="1" />
+    <iomapline keyA="11" keyB="36" receiver="/mxw/track/2/layer/1/opacity" delta="0" time="0" type="1" />
+    <iomapline keyA="11" keyB="38" receiver="/mxw/track/2/layer/2/opacity" delta="0" time="0" type="1" />
+    <iomapline keyA="11" keyB="40" receiver="/mxw/track/2/layer/3/opacity" delta="0" time="0" type="1" />
+    <iomapline keyA="11" keyB="41" receiver="/mxw/track/2/layer/4/opacity" delta="0" time="0" type="1" />
+    <iomapline keyA="11" keyB="43" receiver="/mxw/track/2/layer/5/opacity" delta="0" time="0" type="1" />
+    <iomapline keyA="11" keyB="45" receiver="/mxw/track/2/layer/6/opacity" delta="0" time="0" type="1" />
+    <iomapline keyA="11" keyB="47" receiver="/mxw/track/2/layer/7/opacity" delta="0" time="0" type="1" />
+    <iomapline keyA="11" keyB="48" receiver="/mxw/track/2/layer/8/opacity" delta="0" time="0" type="1" />
+    <iomapline keyA="12" keyB="36" receiver="/mxw/track/3/layer/1/opacity" delta="0" time="0" type="1" />
+    <iomapline keyA="12" keyB="38" receiver="/mxw/track/3/layer/2/opacity" delta="0" time="0" type="1" />
+    <iomapline keyA="12" keyB="40" receiver="/mxw/track/3/layer/3/opacity" delta="0" time="0" type="1" />
+    <iomapline keyA="12" keyB="41" receiver="/mxw/track/3/layer/4/opacity" delta="0" time="0" type="1" />
+    <iomapline keyA="12" keyB="43" receiver="/mxw/track/3/layer/5/opacity" delta="0" time="0" type="1" />
+    <iomapline keyA="12" keyB="45" receiver="/mxw/track/3/layer/6/opacity" delta="0" time="0" type="1" />
+    <iomapline keyA="12" keyB="47" receiver="/mxw/track/3/layer/7/opacity" delta="0" time="0" type="1" />
+    <iomapline keyA="12" keyB="48" receiver="/mxw/track/3/layer/8/opacity" delta="0" time="0" type="1" />
+    <iomapline keyA="9" keyB="1" receiver="/mxw/track/3/layer/1/clip/position" delta="0" time="0" type="1" />
+    <iomapline keyA="9" keyB="2" receiver="/mxw/track/3/layer/2/clip/position" delta="0" time="0" type="1" />
+    <iomapline keyA="9" keyB="3" receiver="/mxw/track/3/layer/3/clip/position" delta="0" time="0" type="1" />
+    <iomapline keyA="9" keyB="4" receiver="/mxw/track/3/layer/4/clip/position" delta="0" time="0" type="1" />
+    <iomapline keyA="9" keyB="5" receiver="/mxw/track/3/layer/5/clip/position" delta="0" time="0" type="1" />
+    <iomapline keyA="9" keyB="6" receiver="/mxw/track/3/layer/6/clip/position" delta="0" time="0" type="1" />
+    <iomapline keyA="9" keyB="7" receiver="/mxw/track/3/layer/7/clip/position" delta="0" time="0" type="1" />
+    <iomapline keyA="9" keyB="8" receiver="/mxw/track/3/layer/8/clip/position" delta="0" time="0" type="1" />
+    <iomapline keyA="-33" keyB="-33" receiver="[no receiver]" delta="0" time="0" type="1" />
+    <iomapline keyA="-33" keyB="-33" receiver="/mxw/playlist/pause" delta="0" time="0" type="1" />
+    <iomapline keyA="-33" keyB="-33" receiver="/mxw/playlist/play" delta="0" time="0" type="1" />
+    <iomapline keyA="-33" keyB="-33" receiver="/mxw/playlist/gotoprev" delta="0" time="0" type="1" />
+    <iomapline keyA="-33" keyB="-33" receiver="/mxw/playlist/gotonext" delta="0" time="0" type="1" />
+    <iomapline keyA="-33" keyB="-33" receiver="/mxw/layermanager" delta="0" time="0" type="1" />
+    <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/reset" delta="0" time="0" type="3" />
+    <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/rotation" delta="0" time="0" type="1" />
+    <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/scalexy" delta="0" time="0" type="1" />
+    <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/aspectratio" delta="0" time="0" type="1" />
+    <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/translationy" delta="0" time="0" type="1" />
+    <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/scale" delta="0" time="0" type="1" />
+    <iomapline keyA="-33" keyB="-33" receiver="/mxw/set" delta="0" time="0" type="1" />
+    <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/mode" delta="0" time="0" type="1" />
+    <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/translationx" delta="0" time="0" type="1" />
+    <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/opacity" delta="0" time="0" type="1" />
+    <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/clip/position" delta="0" time="0" type="1" />
+    <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/clip/speed" delta="0" time="0" type="1" />
+    <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/clip/effect/1/param/1" delta="0" time="0" type="1" />
+    <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/clip/effect/1/param/2" delta="0" time="0" type="1" />
+    <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/clip/effect/2/param/1" delta="0" time="0" type="1" />
+    <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/clip/effect/2/param/2" delta="0" time="0" type="1" />
+    <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/clip/effect/3/param/1" delta="0" time="0" type="1" />
+    <iomapline keyA="-33" keyB="-33" receiver="/mxw/track/active/layer/active/clip/effect/3/param/2" delta="0" time="0" type="1" />
+    <iomapline keyA="-33" keyB="-33" receiver="/mxw/Audioampcontroller" delta="0" time="0" type="1" />
+</config0>

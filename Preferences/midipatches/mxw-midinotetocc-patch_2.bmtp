@@ -1,0 +1,533 @@
+[MIDI.routes]
+In0=IAC-Treiber Wavetick
+Out0=midiLE USB Dest
+
+[Preset.0]
+Name=Opacity Layer 1-8 Track 1
+Active=0
+PresetSwitchIgnore=0
+Name0=Opacity (Var Velocity) - Layer 1 - Track 1
+Incoming0=MID3<Incoming Action="MIDI"><Ports><Port>midiLE USB Source</Port></Ports><Simple Type="NoteOn"><Channel num="10"/><Value1 num="0x24"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing0=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="10"/><Value1 num="0x24"/><Value2 var="vv"/></Simple></Outgoing>
+Options0=Actv01Stop00OutO00
+Name1=Opacity (Var Velocity) - Layer 1 - Track 1
+Incoming1=MID3<Incoming Action="MIDI"><Ports><Port>midiLE USB Source</Port></Ports><Simple Type="NoteOff"><Channel num="10"/><Value1 num="0x24"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing1=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="10"/><Value1 num="0x24"/><Value2 var="vv"/></Simple></Outgoing>
+Options1=Actv01Stop00OutO00
+Name2=Opacity (Var Velocity) - Layer 2 - Track 1
+Incoming2=MID3<Incoming Action="MIDI"><Ports><Port>midiLE USB Source</Port></Ports><Simple Type="NoteOn"><Channel num="10"/><Value1 num="0x26"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing2=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="10"/><Value1 num="0x26"/><Value2 var="vv"/></Simple></Outgoing>
+Options2=Actv01Stop00OutO00
+Name3=Opacity (Var Velocity) - Layer 2 - Track 1
+Incoming3=MID3<Incoming Action="MIDI"><Ports><Port>midiLE USB Source</Port></Ports><Simple Type="NoteOff"><Channel num="10"/><Value1 num="0x26"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing3=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="10"/><Value1 num="0x26"/><Value2 var="vv"/></Simple></Outgoing>
+Options3=Actv01Stop00OutO00
+Name4=Opacity (Var Velocity) - Layer 3 - Track 1
+Incoming4=MID3<Incoming Action="MIDI"><Ports><Port>midiLE USB Source</Port></Ports><Simple Type="NoteOn"><Channel num="10"/><Value1 num="0x28"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing4=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="10"/><Value1 num="0x28"/><Value2 var="vv"/></Simple></Outgoing>
+Options4=Actv01Stop00OutO00
+Name5=Opacity (Var Velocity) - Layer 3 - Track 1
+Incoming5=MID3<Incoming Action="MIDI"><Ports><Port>midiLE USB Source</Port></Ports><Simple Type="NoteOff"><Channel num="10"/><Value1 num="0x28"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing5=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="10"/><Value1 num="0x28"/><Value2 var="vv"/></Simple></Outgoing>
+Options5=Actv01Stop00OutO00
+Name6=Opacity (Var Velocity) - Layer 4 - Track 1
+Incoming6=MID3<Incoming Action="MIDI"><Ports><Port>midiLE USB Source</Port></Ports><Simple Type="NoteOn"><Channel num="10"/><Value1 num="0x29"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing6=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="10"/><Value1 num="0x29"/><Value2 var="vv"/></Simple></Outgoing>
+Options6=Actv01Stop00OutO00
+Name7=Opacity (Var Velocity) - Layer 4 - Track 1
+Incoming7=MID3<Incoming Action="MIDI"><Ports><Port>midiLE USB Source</Port></Ports><Simple Type="NoteOff"><Channel num="10"/><Value1 num="0x29"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing7=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="10"/><Value1 num="0x29"/><Value2 var="vv"/></Simple></Outgoing>
+Options7=Actv01Stop00OutO00
+Name8=Opacity (Var Velocity) - Layer 5 - Track 1
+Incoming8=MID3<Incoming Action="MIDI"><Ports><Port>midiLE USB Source</Port></Ports><Simple Type="NoteOn"><Channel num="10"/><Value1 num="0x2B"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing8=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="10"/><Value1 num="0x2B"/><Value2 var="vv"/></Simple></Outgoing>
+Options8=Actv01Stop00OutO00
+Name9=Opacity (Var Velocity) - Layer 5 - Track 1
+Incoming9=MID3<Incoming Action="MIDI"><Ports><Port>midiLE USB Source</Port></Ports><Simple Type="NoteOff"><Channel num="10"/><Value1 num="0x2B"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing9=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="10"/><Value1 num="0x2B"/><Value2 var="vv"/></Simple></Outgoing>
+Options9=Actv01Stop00OutO00
+Name10=Opacity (Var Velocity) - Layer 6 - Track 1
+Incoming10=MID3<Incoming Action="MIDI"><Ports><Port>midiLE USB Source</Port></Ports><Simple Type="NoteOn"><Channel num="10"/><Value1 num="0x2D"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing10=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="10"/><Value1 num="0x2D"/><Value2 var="vv"/></Simple></Outgoing>
+Options10=Actv01Stop00OutO00
+Name11=Opacity (Var Velocity) - Layer 6 - Track 1
+Incoming11=MID3<Incoming Action="MIDI"><Ports><Port>midiLE USB Source</Port></Ports><Simple Type="NoteOff"><Channel num="10"/><Value1 num="0x2D"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing11=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="10"/><Value1 num="0x2D"/><Value2 var="vv"/></Simple></Outgoing>
+Options11=Actv01Stop00OutO00
+Name12=Opacity (Var Velocity) - Layer 7 - Track 1
+Incoming12=MID3<Incoming Action="MIDI"><Ports><Port>midiLE USB Source</Port></Ports><Simple Type="NoteOn"><Channel num="10"/><Value1 num="0x2F"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing12=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="10"/><Value1 num="0x2F"/><Value2 var="vv"/></Simple></Outgoing>
+Options12=Actv01Stop00OutO00
+Name13=Opacity (Var Velocity) - Layer 7 - Track 1
+Incoming13=MID3<Incoming Action="MIDI"><Ports><Port>midiLE USB Source</Port></Ports><Simple Type="NoteOff"><Channel num="10"/><Value1 num="0x2F"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing13=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="10"/><Value1 num="0x2F"/><Value2 var="vv"/></Simple></Outgoing>
+Options13=Actv01Stop00OutO00
+Name14=Opacity (Var Velocity) - Layer 8 - Track 1
+Incoming14=MID3<Incoming Action="MIDI"><Ports><Port>midiLE USB Source</Port></Ports><Simple Type="NoteOn"><Channel num="10"/><Value1 num="0x30"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing14=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="10"/><Value1 num="0x30"/><Value2 var="vv"/></Simple></Outgoing>
+Options14=Actv01Stop00OutO00
+Name15=Opacity (Var Velocity) - Layer 8 - Track 1
+Incoming15=MID3<Incoming Action="MIDI"><Ports><Port>midiLE USB Source</Port></Ports><Simple Type="NoteOff"><Channel num="10"/><Value1 num="0x30"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing15=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="10"/><Value1 num="0x30"/><Value2 var="vv"/></Simple></Outgoing>
+Options15=Actv01Stop00OutO00
+
+[Preset.1]
+Name=Opacity Layer 1-8 Track 2
+Active=0
+PresetSwitchIgnore=0
+Name0=Opacity (Var Velocity) - Layer 1 - Track 2
+Incoming0=MID3<Incoming Action="MIDI"><Ports><Port>midiLE USB Source</Port></Ports><Simple Type="NoteOn"><Channel num="11"/><Value1 num="0x24"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing0=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="11"/><Value1 num="0x24"/><Value2 var="vv"/></Simple></Outgoing>
+Options0=Actv01Stop00OutO00
+Name1=Opacity (Var Velocity) - Layer 1 - Track 2
+Incoming1=MID3<Incoming Action="MIDI"><Ports><Port>midiLE USB Source</Port></Ports><Simple Type="NoteOff"><Channel num="11"/><Value1 num="0x24"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing1=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="11"/><Value1 num="0x24"/><Value2 var="vv"/></Simple></Outgoing>
+Options1=Actv01Stop00OutO00
+Name2=Opacity (Var Velocity) - Layer 2 - Track 2
+Incoming2=MID3<Incoming Action="MIDI"><Ports><Port>midiLE USB Source</Port></Ports><Simple Type="NoteOn"><Channel num="11"/><Value1 num="0x26"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing2=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="11"/><Value1 num="0x26"/><Value2 var="vv"/></Simple></Outgoing>
+Options2=Actv01Stop00OutO00
+Name3=Opacity (Var Velocity) - Layer 2 - Track 2
+Incoming3=MID3<Incoming Action="MIDI"><Ports><Port>midiLE USB Source</Port></Ports><Simple Type="NoteOff"><Channel num="11"/><Value1 num="0x26"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing3=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="11"/><Value1 num="0x26"/><Value2 var="vv"/></Simple></Outgoing>
+Options3=Actv01Stop00OutO00
+Name4=Opacity (Var Velocity) - Layer 3 - Track 2
+Incoming4=MID3<Incoming Action="MIDI"><Ports><Port>midiLE USB Source</Port></Ports><Simple Type="NoteOn"><Channel num="11"/><Value1 num="0x28"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing4=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="11"/><Value1 num="0x28"/><Value2 var="vv"/></Simple></Outgoing>
+Options4=Actv01Stop00OutO00
+Name5=Opacity (Var Velocity) - Layer 3 - Track 2
+Incoming5=MID3<Incoming Action="MIDI"><Ports><Port>midiLE USB Source</Port></Ports><Simple Type="NoteOff"><Channel num="11"/><Value1 num="0x28"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing5=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="11"/><Value1 num="0x28"/><Value2 var="vv"/></Simple></Outgoing>
+Options5=Actv01Stop00OutO00
+Name6=Opacity (Var Velocity) - Layer 4 - Track 2
+Incoming6=MID3<Incoming Action="MIDI"><Ports><Port>midiLE USB Source</Port></Ports><Simple Type="NoteOn"><Channel num="11"/><Value1 num="0x29"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing6=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="11"/><Value1 num="0x29"/><Value2 var="vv"/></Simple></Outgoing>
+Options6=Actv01Stop00OutO00
+Name7=Opacity (Var Velocity) - Layer 4 - Track 2
+Incoming7=MID3<Incoming Action="MIDI"><Ports><Port>midiLE USB Source</Port></Ports><Simple Type="NoteOff"><Channel num="11"/><Value1 num="0x29"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing7=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="11"/><Value1 num="0x29"/><Value2 var="vv"/></Simple></Outgoing>
+Options7=Actv01Stop00OutO00
+Name8=Opacity (Var Velocity) - Layer 5 - Track 2
+Incoming8=MID3<Incoming Action="MIDI"><Ports><Port>midiLE USB Source</Port></Ports><Simple Type="NoteOn"><Channel num="11"/><Value1 num="0x2B"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing8=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="11"/><Value1 num="0x2B"/><Value2 var="vv"/></Simple></Outgoing>
+Options8=Actv01Stop00OutO00
+Name9=Opacity (Var Velocity) - Layer 5 - Track 2
+Incoming9=MID3<Incoming Action="MIDI"><Ports><Port>midiLE USB Source</Port></Ports><Simple Type="NoteOff"><Channel num="11"/><Value1 num="0x2B"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing9=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="11"/><Value1 num="0x2B"/><Value2 var="vv"/></Simple></Outgoing>
+Options9=Actv01Stop00OutO00
+Name10=Opacity (Var Velocity) - Layer 6 - Track 2
+Incoming10=MID3<Incoming Action="MIDI"><Ports><Port>midiLE USB Source</Port></Ports><Simple Type="NoteOn"><Channel num="11"/><Value1 num="0x2D"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing10=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="11"/><Value1 num="0x2D"/><Value2 var="vv"/></Simple></Outgoing>
+Options10=Actv01Stop00OutO00
+Name11=Opacity (Var Velocity) - Layer 6 - Track 2
+Incoming11=MID3<Incoming Action="MIDI"><Ports><Port>midiLE USB Source</Port></Ports><Simple Type="NoteOff"><Channel num="11"/><Value1 num="0x2D"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing11=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="11"/><Value1 num="0x2D"/><Value2 var="vv"/></Simple></Outgoing>
+Options11=Actv01Stop00OutO00
+Name12=Opacity (Var Velocity) - Layer 7 - Track 2
+Incoming12=MID3<Incoming Action="MIDI"><Ports><Port>midiLE USB Source</Port></Ports><Simple Type="NoteOn"><Channel num="11"/><Value1 num="0x2F"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing12=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="11"/><Value1 num="0x2F"/><Value2 var="vv"/></Simple></Outgoing>
+Options12=Actv01Stop00OutO00
+Name13=Opacity (Var Velocity) - Layer 7 - Track 2
+Incoming13=MID3<Incoming Action="MIDI"><Ports><Port>midiLE USB Source</Port></Ports><Simple Type="NoteOff"><Channel num="11"/><Value1 num="0x2F"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing13=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="11"/><Value1 num="0x2F"/><Value2 var="vv"/></Simple></Outgoing>
+Options13=Actv01Stop00OutO00
+Name14=Opacity (Var Velocity) - Layer 8 - Track 2
+Incoming14=MID3<Incoming Action="MIDI"><Ports><Port>midiLE USB Source</Port></Ports><Simple Type="NoteOn"><Channel num="11"/><Value1 num="0x30"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing14=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="11"/><Value1 num="0x30"/><Value2 var="vv"/></Simple></Outgoing>
+Options14=Actv01Stop00OutO00
+Name15=Opacity (Var Velocity) - Layer 8 - Track 2
+Incoming15=MID3<Incoming Action="MIDI"><Ports><Port>midiLE USB Source</Port></Ports><Simple Type="NoteOff"><Channel num="11"/><Value1 num="0x30"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing15=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="11"/><Value1 num="0x30"/><Value2 var="vv"/></Simple></Outgoing>
+Options15=Actv01Stop00OutO00
+
+[Preset.10]
+Name=ClipPosition Layer 8 Track 3
+Active=0
+PresetSwitchIgnore=0
+DefaultInPorts=MIDA00010011midiLE USB Source
+DefaultOutPorts=MIDA00010014IAC-Treiber NoteToCC
+Name0=ClipPosition 1 - Layer 8 - Track 3
+Incoming0=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x3C"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing0=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x08"/><Value2 num="0x00"/></Simple></Outgoing>
+Options0=Actv01Stop00OutO00
+Name1=ClipPosition 2 - Layer 8 - Track 3
+Incoming1=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x3E"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing1=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x08"/><Value2 num="0x12"/></Simple></Outgoing>
+Options1=Actv01Stop00OutO00
+Name2=ClipPosition 3 - Layer 8 - Track 3
+Incoming2=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x40"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing2=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x08"/><Value2 num="0x24"/></Simple></Outgoing>
+Options2=Actv01Stop00OutO00
+Name3=ClipPosition 4 - Layer 8 - Track 3
+Incoming3=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x41"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing3=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x08"/><Value2 num="0x36"/></Simple></Outgoing>
+Options3=Actv01Stop00OutO00
+Name4=ClipPosition 5 - Layer 8 - Track 3
+Incoming4=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x43"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing4=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x08"/><Value2 num="0x48"/></Simple></Outgoing>
+Options4=Actv01Stop00OutO00
+Name5=ClipPosition 6 - Layer 8 - Track 3
+Incoming5=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x45"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing5=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x08"/><Value2 num="0x5A"/></Simple></Outgoing>
+Options5=Actv01Stop00OutO00
+Name6=ClipPosition 7 - Layer 8 - Track 3
+Incoming6=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x47"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing6=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x08"/><Value2 num="0x6C"/></Simple></Outgoing>
+Options6=Actv01Stop00OutO00
+Name7=ClipPosition 8 - Layer 8 - Track 3
+Incoming7=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x48"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing7=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x08"/><Value2 num="0x7E"/></Simple></Outgoing>
+Options7=Actv01Stop00OutO00
+
+[Preset.2]
+Name=Opacity Layer 1-8 Track 3
+Active=1
+PresetSwitchIgnore=0
+Name0=Opacity (Var Velocity) - Layer 1 - Track 3
+Incoming0=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="12"/><Value1 num="0x24"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing0=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="12"/><Value1 num="0x24"/><Value2 var="vv"/></Simple></Outgoing>
+Options0=Actv00Stop00OutO00
+Name1=Opacity (Var Velocity) - Layer 1 - Track 3
+Incoming1=MID3<Incoming Action="MIDI"><Simple Type="NoteOff"><Channel num="12"/><Value1 num="0x24"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing1=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="12"/><Value1 num="0x24"/><Value2 var="vv"/></Simple></Outgoing>
+Options1=Actv00Stop00OutO00
+Name2=Opacity (Var Velocity) - Layer 2 - Track 3
+Incoming2=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="12"/><Value1 num="0x26"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing2=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="12"/><Value1 num="0x26"/><Value2 var="vv"/></Simple></Outgoing>
+Options2=Actv00Stop00OutO00
+Name3=Opacity (Var Velocity) - Layer 2 - Track 3
+Incoming3=MID3<Incoming Action="MIDI"><Simple Type="NoteOff"><Channel num="12"/><Value1 num="0x26"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing3=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="12"/><Value1 num="0x26"/><Value2 var="vv"/></Simple></Outgoing>
+Options3=Actv00Stop00OutO00
+Name4=Opacity (Var Velocity) - Layer 3 - Track 3
+Incoming4=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="12"/><Value1 num="0x28"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing4=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="12"/><Value1 num="0x28"/><Value2 var="vv"/></Simple></Outgoing>
+Options4=Actv01Stop00OutO00
+Name5=Opacity (Var Velocity) - Layer 3 - Track 3
+Incoming5=MID3<Incoming Action="MIDI"><Simple Type="NoteOff"><Channel num="12"/><Value1 num="0x28"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing5=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="12"/><Value1 num="0x28"/><Value2 var="vv"/></Simple></Outgoing>
+Options5=Actv01Stop00OutO00
+Name6=Opacity (Var Velocity) - Layer 4 - Track 3
+Incoming6=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="12"/><Value1 num="0x29"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing6=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="12"/><Value1 num="0x29"/><Value2 var="vv"/></Simple></Outgoing>
+Options6=Actv01Stop00OutO00
+Name7=Opacity (Var Velocity) - Layer 4 - Track 3
+Incoming7=MID3<Incoming Action="MIDI"><Simple Type="NoteOff"><Channel num="12"/><Value1 num="0x29"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing7=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="12"/><Value1 num="0x29"/><Value2 var="vv"/></Simple></Outgoing>
+Options7=Actv01Stop00OutO00
+Name8=Opacity (Var Velocity) - Layer 5 - Track 3
+Incoming8=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="12"/><Value1 num="0x2B"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing8=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="12"/><Value1 num="0x2B"/><Value2 var="vv"/></Simple></Outgoing>
+Options8=Actv01Stop00OutO00
+Name9=Opacity (Var Velocity) - Layer 5 - Track 3
+Incoming9=MID3<Incoming Action="MIDI"><Simple Type="NoteOff"><Channel num="12"/><Value1 num="0x2B"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing9=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="12"/><Value1 num="0x2B"/><Value2 var="vv"/></Simple></Outgoing>
+Options9=Actv01Stop00OutO00
+Name10=Opacity (Var Velocity) - Layer 6 - Track 3
+Incoming10=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="12"/><Value1 num="0x2D"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing10=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="12"/><Value1 num="0x2D"/><Value2 var="vv"/></Simple></Outgoing>
+Options10=Actv01Stop00OutO00
+Name11=Opacity (Var Velocity) - Layer 6 - Track 3
+Incoming11=MID3<Incoming Action="MIDI"><Simple Type="NoteOff"><Channel num="12"/><Value1 num="0x2D"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing11=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="12"/><Value1 num="0x2D"/><Value2 var="vv"/></Simple></Outgoing>
+Options11=Actv01Stop00OutO00
+Name12=Opacity (Var Velocity) - Layer 7 - Track 3
+Incoming12=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="12"/><Value1 num="0x2F"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing12=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="12"/><Value1 num="0x2F"/><Value2 var="vv"/></Simple></Outgoing>
+Options12=Actv01Stop00OutO00
+Name13=Opacity (Var Velocity) - Layer 7 - Track 3
+Incoming13=MID3<Incoming Action="MIDI"><Simple Type="NoteOff"><Channel num="12"/><Value1 num="0x2F"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing13=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="12"/><Value1 num="0x2F"/><Value2 var="vv"/></Simple></Outgoing>
+Options13=Actv01Stop00OutO00
+Name14=Opacity (Var Velocity) - Layer 8 - Track 3
+Incoming14=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="12"/><Value1 num="0x30"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing14=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="12"/><Value1 num="0x30"/><Value2 var="vv"/></Simple></Outgoing>
+Options14=Actv01Stop00OutO00
+Name15=Opacity (Var Velocity) - Layer 8 - Track 3
+Incoming15=MID3<Incoming Action="MIDI"><Simple Type="NoteOff"><Channel num="12"/><Value1 num="0x30"/><Value2 var="vv" Type="SetVar"/></Simple></Incoming>
+Outgoing15=MID3<Outgoing Action="MIDI"><Ports><Port>IAC-Treiber NoteToCC</Port></Ports><Simple Type="ControlChange"><Channel num="12"/><Value1 num="0x30"/><Value2 var="vv"/></Simple></Outgoing>
+Options15=Actv01Stop00OutO00
+
+[Preset.3]
+Name=ClipPosition Layer 1 Track 3
+Active=1
+PresetSwitchIgnore=0
+DefaultInPorts=MIDA00010011midiLE USB Source
+DefaultOutPorts=MIDA00010014IAC-Treiber NoteToCC
+Name0=ClipPosition 1 - Layer 1 - Track 3
+Incoming0=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x3C"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing0=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x01"/><Value2 num="0x00"/></Simple></Outgoing>
+Options0=Actv01Stop00OutO00
+Name1=ClipPosition 2 - Layer 1 - Track 3
+Incoming1=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x3E"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing1=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x01"/><Value2 num="0x10"/></Simple></Outgoing>
+Options1=Actv01Stop00OutO00
+Name2=ClipPosition 3 - Layer 1 - Track 3
+Incoming2=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x40"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing2=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x01"/><Value2 num="0x20"/></Simple></Outgoing>
+Options2=Actv01Stop00OutO00
+Name3=ClipPosition 4 - Layer 1 - Track 3
+Incoming3=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x41"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing3=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x01"/><Value2 num="0x30"/></Simple></Outgoing>
+Options3=Actv01Stop00OutO00
+Name4=ClipPosition 5 - Layer 1 - Track 3
+Incoming4=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x43"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing4=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x01"/><Value2 num="0x40"/></Simple></Outgoing>
+Options4=Actv01Stop00OutO00
+Name5=ClipPosition 6 - Layer 1 - Track 3
+Incoming5=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x45"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing5=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x01"/><Value2 num="0x50"/></Simple></Outgoing>
+Options5=Actv01Stop00OutO00
+Name6=ClipPosition 7 - Layer 1 - Track 3
+Incoming6=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x47"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing6=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x01"/><Value2 num="0x60"/></Simple></Outgoing>
+Options6=Actv01Stop00OutO00
+Name7=ClipPosition 8 - Layer 1 - Track 3
+Incoming7=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x48"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing7=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x01"/><Value2 num="0x70"/></Simple></Outgoing>
+Options7=Actv01Stop00OutO00
+
+[Preset.4]
+Name=ClipPosition Layer 2 Track 3
+Active=0
+PresetSwitchIgnore=0
+DefaultInPorts=MIDA00010011midiLE USB Source
+DefaultOutPorts=MIDA00010014IAC-Treiber NoteToCC
+Name0=ClipPosition 1 - Layer 2 - Track 3
+Incoming0=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x3C"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing0=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x02"/><Value2 num="0x00"/></Simple></Outgoing>
+Options0=Actv01Stop00OutO00
+Name1=ClipPosition 2 - Layer 2 - Track 3
+Incoming1=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x3E"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing1=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x02"/><Value2 num="0x12"/></Simple></Outgoing>
+Options1=Actv01Stop00OutO00
+Name2=ClipPosition 3 - Layer 2 - Track 3
+Incoming2=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x40"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing2=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x02"/><Value2 num="0x24"/></Simple></Outgoing>
+Options2=Actv01Stop00OutO00
+Name3=ClipPosition 4 - Layer 2 - Track 3
+Incoming3=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x41"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing3=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x02"/><Value2 num="0x36"/></Simple></Outgoing>
+Options3=Actv01Stop00OutO00
+Name4=ClipPosition 5 - Layer 2 - Track 3
+Incoming4=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x43"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing4=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x02"/><Value2 num="0x48"/></Simple></Outgoing>
+Options4=Actv01Stop00OutO00
+Name5=ClipPosition 6 - Layer 2 - Track 3
+Incoming5=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x45"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing5=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x02"/><Value2 num="0x5A"/></Simple></Outgoing>
+Options5=Actv01Stop00OutO00
+Name6=ClipPosition 7 - Layer 2 - Track 3
+Incoming6=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x47"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing6=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x02"/><Value2 num="0x6C"/></Simple></Outgoing>
+Options6=Actv01Stop00OutO00
+Name7=ClipPosition 8 - Layer 2 - Track 3
+Incoming7=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x48"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing7=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x02"/><Value2 num="0x7E"/></Simple></Outgoing>
+Options7=Actv01Stop00OutO00
+
+[Preset.5]
+Name=ClipPosition Layer 3 Track 3
+Active=0
+PresetSwitchIgnore=0
+DefaultInPorts=MIDA00010011midiLE USB Source
+DefaultOutPorts=MIDA00010014IAC-Treiber NoteToCC
+Name0=ClipPosition 1 - Layer 3 - Track 3
+Incoming0=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x3C"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing0=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x03"/><Value2 num="0x00"/></Simple></Outgoing>
+Options0=Actv01Stop00OutO00
+Name1=ClipPosition 2 - Layer 3 - Track 3
+Incoming1=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x3E"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing1=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x03"/><Value2 num="0x12"/></Simple></Outgoing>
+Options1=Actv01Stop00OutO00
+Name2=ClipPosition 3 - Layer 3 - Track 3
+Incoming2=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x40"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing2=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x03"/><Value2 num="0x24"/></Simple></Outgoing>
+Options2=Actv01Stop00OutO00
+Name3=ClipPosition 4 - Layer 3 - Track 3
+Incoming3=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x41"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing3=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x03"/><Value2 num="0x36"/></Simple></Outgoing>
+Options3=Actv01Stop00OutO00
+Name4=ClipPosition 5 - Layer 3 - Track 3
+Incoming4=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x43"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing4=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x03"/><Value2 num="0x48"/></Simple></Outgoing>
+Options4=Actv01Stop00OutO00
+Name5=ClipPosition 6 - Layer 3 - Track 3
+Incoming5=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x45"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing5=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x03"/><Value2 num="0x5A"/></Simple></Outgoing>
+Options5=Actv01Stop00OutO00
+Name6=ClipPosition 7 - Layer 3 - Track 3
+Incoming6=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x47"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing6=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x03"/><Value2 num="0x6C"/></Simple></Outgoing>
+Options6=Actv01Stop00OutO00
+Name7=ClipPosition 8 - Layer 3 - Track 3
+Incoming7=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x48"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing7=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x03"/><Value2 num="0x7E"/></Simple></Outgoing>
+Options7=Actv01Stop00OutO00
+
+[Preset.6]
+Name=ClipPosition Layer 4 Track 3
+Active=0
+PresetSwitchIgnore=0
+DefaultInPorts=MIDA00010011midiLE USB Source
+DefaultOutPorts=MIDA00010014IAC-Treiber NoteToCC
+Name0=ClipPosition 1 - Layer 4 - Track 3
+Incoming0=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x3C"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing0=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x04"/><Value2 num="0x00"/></Simple></Outgoing>
+Options0=Actv01Stop00OutO00
+Name1=ClipPosition 2 - Layer 4 - Track 3
+Incoming1=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x3E"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing1=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x04"/><Value2 num="0x12"/></Simple></Outgoing>
+Options1=Actv01Stop00OutO00
+Name2=ClipPosition 3 - Layer 4 - Track 3
+Incoming2=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x40"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing2=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x04"/><Value2 num="0x24"/></Simple></Outgoing>
+Options2=Actv01Stop00OutO00
+Name3=ClipPosition 4 - Layer 4 - Track 3
+Incoming3=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x41"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing3=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x04"/><Value2 num="0x36"/></Simple></Outgoing>
+Options3=Actv01Stop00OutO00
+Name4=ClipPosition 5 - Layer 4 - Track 3
+Incoming4=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x43"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing4=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x04"/><Value2 num="0x48"/></Simple></Outgoing>
+Options4=Actv01Stop00OutO00
+Name5=ClipPosition 6 - Layer 4 - Track 3
+Incoming5=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x45"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing5=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x04"/><Value2 num="0x5A"/></Simple></Outgoing>
+Options5=Actv01Stop00OutO00
+Name6=ClipPosition 7 - Layer 4 - Track 3
+Incoming6=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x47"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing6=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x04"/><Value2 num="0x6C"/></Simple></Outgoing>
+Options6=Actv01Stop00OutO00
+Name7=ClipPosition 8 - Layer 4 - Track 3
+Incoming7=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x48"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing7=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x04"/><Value2 num="0x7E"/></Simple></Outgoing>
+Options7=Actv01Stop00OutO00
+
+[Preset.7]
+Name=ClipPosition Layer 5 Track 3
+Active=0
+PresetSwitchIgnore=0
+DefaultInPorts=MIDA00010011midiLE USB Source
+DefaultOutPorts=MIDA00010014IAC-Treiber NoteToCC
+Name0=ClipPosition 1 - Layer 5 - Track 3
+Incoming0=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x3C"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing0=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x05"/><Value2 num="0x00"/></Simple></Outgoing>
+Options0=Actv01Stop00OutO00
+Name1=ClipPosition 2 - Layer 5 - Track 3
+Incoming1=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x3E"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing1=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x05"/><Value2 num="0x12"/></Simple></Outgoing>
+Options1=Actv01Stop00OutO00
+Name2=ClipPosition 3 - Layer 5 - Track 3
+Incoming2=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x40"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing2=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x05"/><Value2 num="0x24"/></Simple></Outgoing>
+Options2=Actv01Stop00OutO00
+Name3=ClipPosition 4 - Layer 5 - Track 3
+Incoming3=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x41"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing3=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x05"/><Value2 num="0x36"/></Simple></Outgoing>
+Options3=Actv01Stop00OutO00
+Name4=ClipPosition 5 - Layer 5 - Track 3
+Incoming4=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x43"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing4=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x05"/><Value2 num="0x48"/></Simple></Outgoing>
+Options4=Actv01Stop00OutO00
+Name5=ClipPosition 6 - Layer 5 - Track 3
+Incoming5=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x45"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing5=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x05"/><Value2 num="0x5A"/></Simple></Outgoing>
+Options5=Actv01Stop00OutO00
+Name6=ClipPosition 7 - Layer 5 - Track 3
+Incoming6=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x47"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing6=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x05"/><Value2 num="0x6C"/></Simple></Outgoing>
+Options6=Actv01Stop00OutO00
+Name7=ClipPosition 8 - Layer 5 - Track 3
+Incoming7=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x48"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing7=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x05"/><Value2 num="0x7E"/></Simple></Outgoing>
+Options7=Actv01Stop00OutO00
+
+[Preset.8]
+Name=ClipPosition Layer 6 Track 3
+Active=0
+PresetSwitchIgnore=0
+DefaultInPorts=MIDA00010011midiLE USB Source
+DefaultOutPorts=MIDA00010014IAC-Treiber NoteToCC
+Name0=ClipPosition 1 - Layer 6 - Track 3
+Incoming0=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x3C"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing0=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x06"/><Value2 num="0x00"/></Simple></Outgoing>
+Options0=Actv01Stop00OutO00
+Name1=ClipPosition 2 - Layer 6 - Track 3
+Incoming1=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x3E"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing1=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x06"/><Value2 num="0x12"/></Simple></Outgoing>
+Options1=Actv01Stop00OutO00
+Name2=ClipPosition 3 - Layer 6 - Track 3
+Incoming2=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x40"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing2=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x06"/><Value2 num="0x24"/></Simple></Outgoing>
+Options2=Actv01Stop00OutO00
+Name3=ClipPosition 4 - Layer 6 - Track 3
+Incoming3=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x41"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing3=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x06"/><Value2 num="0x36"/></Simple></Outgoing>
+Options3=Actv01Stop00OutO00
+Name4=ClipPosition 5 - Layer 6 - Track 3
+Incoming4=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x43"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing4=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x06"/><Value2 num="0x48"/></Simple></Outgoing>
+Options4=Actv01Stop00OutO00
+Name5=ClipPosition 6 - Layer 6 - Track 3
+Incoming5=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x45"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing5=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x06"/><Value2 num="0x5A"/></Simple></Outgoing>
+Options5=Actv01Stop00OutO00
+Name6=ClipPosition 7 - Layer 6 - Track 3
+Incoming6=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x47"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing6=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x06"/><Value2 num="0x6C"/></Simple></Outgoing>
+Options6=Actv01Stop00OutO00
+Name7=ClipPosition 8 - Layer 6 - Track 3
+Incoming7=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x48"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing7=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x06"/><Value2 num="0x7E"/></Simple></Outgoing>
+Options7=Actv01Stop00OutO00
+
+[Preset.9]
+Name=ClipPosition Layer 7 Track 3
+Active=0
+PresetSwitchIgnore=0
+DefaultInPorts=MIDA00010011midiLE USB Source
+DefaultOutPorts=MIDA00010014IAC-Treiber NoteToCC
+Name0=ClipPosition 1 - Layer 7 - Track 3
+Incoming0=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x3C"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing0=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x07"/><Value2 num="0x00"/></Simple></Outgoing>
+Options0=Actv01Stop00OutO00
+Name1=ClipPosition 2 - Layer 7 - Track 3
+Incoming1=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x3E"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing1=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x07"/><Value2 num="0x12"/></Simple></Outgoing>
+Options1=Actv01Stop00OutO00
+Name2=ClipPosition 3 - Layer 7 - Track 3
+Incoming2=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x40"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing2=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x07"/><Value2 num="0x24"/></Simple></Outgoing>
+Options2=Actv01Stop00OutO00
+Name3=ClipPosition 4 - Layer 7 - Track 3
+Incoming3=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x41"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing3=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x07"/><Value2 num="0x36"/></Simple></Outgoing>
+Options3=Actv01Stop00OutO00
+Name4=ClipPosition 5 - Layer 7 - Track 3
+Incoming4=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x43"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing4=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x07"/><Value2 num="0x48"/></Simple></Outgoing>
+Options4=Actv01Stop00OutO00
+Name5=ClipPosition 6 - Layer 7 - Track 3
+Incoming5=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x45"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing5=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x07"/><Value2 num="0x5A"/></Simple></Outgoing>
+Options5=Actv01Stop00OutO00
+Name6=ClipPosition 7 - Layer 7 - Track 3
+Incoming6=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x47"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing6=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x07"/><Value2 num="0x6C"/></Simple></Outgoing>
+Options6=Actv01Stop00OutO00
+Name7=ClipPosition 8 - Layer 7 - Track 3
+Incoming7=MID3<Incoming Action="MIDI"><Simple Type="NoteOn"><Channel num="9"/><Value1 num="0x48"/><Value2 num="0x00" Type="Any"/></Simple></Incoming>
+Outgoing7=MID3<Outgoing Action="MIDI"><Simple Type="ControlChange"><Channel num="9"/><Value1 num="0x07"/><Value2 num="0x7E"/></Simple></Outgoing>
+Options7=Actv01Stop00OutO00
+
+[Project]
+Version=2
+Author=
+AuthorContact=
+Comments=
+AuthorWWW=
+AuthorCopyright=
+DefaultInPorts=MIDA00020011midiLE USB Source0014IAC-Treiber Wavetick
+DefaultOutPorts=MIDA00020014IAC-Treiber NoteToCC000FmidiLE USB Dest
+

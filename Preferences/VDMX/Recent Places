@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attribs</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGFhdYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
+	AAGGoKMHCA9VJG51bGzTCQoLDA0OV05TLmtleXNaTlMub2JqZWN0c1YkY2xhc3OgoIAC
+	0hAREhNaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjEhQV
+	XE5TRGljdGlvbmFyeVhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEYGVRyb290gAEI
+	ERojLTI3O0FIUFtiY2Rma3Z/lZmmr8HEyQAAAAAAAAEBAAAAAAAAABoAAAAAAAAAAAAA
+	AAAAAADL
+	</data>
+	<key>contents</key>
+	<array/>
+	<key>lPaths</key>
+	<array>
+		<string>/Recent Places</string>
+	</array>
+	<key>lock</key>
+	<false/>
+	<key>name</key>
+	<string>Recent Places</string>
+	<key>path</key>
+	<string>vdmx:/Recent Places</string>
+	<key>rvt</key>
+	<true/>
+	<key>type</key>
+	<integer>17</integer>
+	<key>uniqueID</key>
+	<integer>34</integer>
+</dict>
+</plist>
