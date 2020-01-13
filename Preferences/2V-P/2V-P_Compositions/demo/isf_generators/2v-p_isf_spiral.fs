@@ -1,0 +1,107 @@
+/*{
+    "DESCRIPTION": "2V-P ISF SPIRAL",
+	"CREDIT": "Copyright © 2015 2v-p.tv. All rights reserved.",
+	"CATEGORIES": [
+		"2V-P ISF GENERATOR"
+	],
+	"INPUTS": [
+        {
+            "NAME": "renderTime",
+            "TYPE": "float"
+        },
+		{
+			"NAME": "rotationSpeed",
+			"TYPE": "float",
+			"MIN": -1.0,
+			"MAX": 1.0,
+			"DEFAULT": 0.0
+		},
+		{
+			"NAME": "count",
+			"TYPE": "float",
+			"MIN": 0.1,
+			"MAX": 50.0,
+			"DEFAULT": 2.0
+		},
+		{
+			"NAME": "width",
+			"TYPE": "float",
+			"MIN": 0.0,
+			"MAX": 0.25,
+			"DEFAULT": 0.125
+		},
+		{
+			"NAME": "softness",
+			"TYPE": "float",
+			"MIN": 0.0,
+			"MAX": 1.0,
+			"DEFAULT": 0.25
+		},
+		{
+			"NAME": "color1",
+			"TYPE": "color",
+			"DEFAULT": [
+				0.0,
+				0.0,
+				0.0,
+				0.0
+			]
+		},
+		{
+			"NAME": "color2",
+			"TYPE": "color",
+			"DEFAULT": [
+				1.0,
+				1.0,
+				1.0,
+				1.0
+			]
+		}
+	]
+}*/
+
+
+const float pi = 3.14159265359;
+
+
+void main()
+{
+    float angle = 3.14159265359 * rotationSpeed * renderTime;
+
+	vec4 out_color = color1;
+	
+	//	convert to polar coordinates
+	vec2 loc = vec2(vv_FragNormCoord[0],vv_FragNormCoord[1]);
+	loc.y = (loc.y - 0.5) * RENDERSIZE.y / RENDERSIZE.x + 0.5;
+	float r = 2.0 * count * distance(vec2(0.5,0.5), loc) + width;
+	float theta = atan ((loc.y-0.5),(loc.x-0.5));
+
+	loc.y = r * sin(theta + 2.0 * pi * angle) + 0.5;
+
+	if (loc.y < 0.5)	{
+		theta = theta + 2.0 * pi;
+		theta = mod(theta + angle * 2.0 * pi, 2.0 * pi);
+		theta = (theta + 2.0 * pi * floor(r - width));
+	}
+	else	{
+		theta = mod(theta + angle * 2.0 * pi, 2.0 * pi);
+		theta = (theta + 2.0 * pi * floor(r + width));
+	}
+	
+	if (width == 0.0)	{
+		out_color = color1;
+	}
+	else 	{
+		float dist = abs(r - theta/(2.0*pi));
+		if (dist < width)	{
+			if (dist > width * (1.0-softness))	{
+				out_color = mix(color2, color1, (dist - width * (1.0-softness))/(width - width * (1.0-softness)));
+			}
+			else	{
+				out_color = color2;
+			}
+		}
+	}
+	
+	gl_FragColor = out_color;
+}
